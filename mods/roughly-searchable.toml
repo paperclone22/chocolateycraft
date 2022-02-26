@@ -1,0 +1,13 @@
+name = "Roughly Searchable"
+filename = "roughly-searchable-2.3.0+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/830/roughly-searchable-2.3.0+1.18.1.jar"
+hash-format = "sha1"
+hash = "80c1d7b642657cc1f33fbf64767cd41f12352a77"
+
+[update]
+[update.curseforge]
+file-id = 3575830
+project-id = 392023

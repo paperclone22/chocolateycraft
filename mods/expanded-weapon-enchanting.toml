@@ -1,0 +1,13 @@
+name = "Expanded Weapon Enchanting"
+filename = "expanded-weapon-enchanting-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/192/expanded-weapon-enchanting-1.0.2.jar"
+hash-format = "sha1"
+hash = "428d135b2cc374b790ea49041c5e2814c6ceb000"
+
+[update]
+[update.curseforge]
+file-id = 3575192
+project-id = 487024

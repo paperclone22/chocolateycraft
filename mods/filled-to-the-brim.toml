@@ -1,0 +1,13 @@
+name = "Filled To The Brim"
+filename = "FilledToTheBrim-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3648/716/FilledToTheBrim-1.1.0.jar"
+hash-format = "sha1"
+hash = "93e9ec047a69062794ec39f8599b93d166f3839c"
+
+[update]
+[update.curseforge]
+file-id = 3648716
+project-id = 537235

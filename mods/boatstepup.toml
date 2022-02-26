@@ -1,0 +1,13 @@
+name = "Boat Step Up"
+filename = "boat-step-up-1.2.1-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vhnZxUfZ/versions/1.2.1-R/boat-step-up-1.2.1-2.jar"
+hash-format = "sha1"
+hash = "d978dbc63344482f58bb990e44b9d0e763cd3b55"
+
+[update]
+[update.modrinth]
+mod-id = "vhnZxUfZ"
+version = "vs4zl4XI"

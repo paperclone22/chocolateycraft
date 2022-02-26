@@ -1,0 +1,13 @@
+name = "Extra Sponges"
+filename = "extrasponges-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/602/extrasponges-1.2.0.jar"
+hash-format = "sha1"
+hash = "302855e87601b246a951f8ac456dec4cef6dba83"
+
+[update]
+[update.curseforge]
+file-id = 3579602
+project-id = 457043

@@ -1,0 +1,13 @@
+name = "BlockTuner"
+filename = "blocktuner-fabric-1.0.0-MC-1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/866/blocktuner-fabric-1.0.0-MC-1.18.x.jar"
+hash-format = "sha1"
+hash = "8e7e9fa0a2aa10a9ccfc2ea43569a458dba9a2f8"
+
+[update]
+[update.curseforge]
+file-id = 3611866
+project-id = 525655

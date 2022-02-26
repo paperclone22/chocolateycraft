@@ -1,0 +1,13 @@
+name = "Stendhal"
+filename = "stendhal-1.2.0-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3554/833/stendhal-1.2.0-1.18.jar"
+hash-format = "sha1"
+hash = "310cd9a8210875969a4370476eae9c7a1d91ea4c"
+
+[update]
+[update.curseforge]
+file-id = 3554833
+project-id = 463457

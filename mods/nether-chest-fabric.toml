@@ -1,0 +1,13 @@
+name = "Nether Chest (Fabric)"
+filename = "netherchest-mc1.18-3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3604/845/netherchest-mc1.18-3.1.jar"
+hash-format = "sha1"
+hash = "db858b134e98566598bdd0875d561c4864d70977"
+
+[update]
+[update.curseforge]
+file-id = 3604845
+project-id = 494585

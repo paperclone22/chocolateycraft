@@ -1,0 +1,16 @@
+name = "Chocolateycraft"
+author = "paperclone22"
+version = "0.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "075d342fed9c38b6e879ebb2e38a3477faf91a325b1952a47c0a65ffacd116fc"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]

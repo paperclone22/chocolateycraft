@@ -1,0 +1,13 @@
+name = "The Graveyard (FABRIC)"
+filename = "The_Graveyard_1.5_(FABRIC)_for_1.18.1_without_biomes.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3630/699/The_Graveyard_1.5_(FABRIC)_for_1.18.1_without_biomes.jar"
+hash-format = "sha1"
+hash = "7bceece2c3e7003f4dafa7f0994a1c142444779f"
+
+[update]
+[update.curseforge]
+file-id = 3630699
+project-id = 514468

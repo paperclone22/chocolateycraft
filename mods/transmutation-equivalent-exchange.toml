@@ -1,0 +1,13 @@
+name = "Transmutation: Equivalent Exchange"
+filename = "grifferthrydwy-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/93/grifferthrydwy-0.0.1.jar"
+hash-format = "sha1"
+hash = "38e535eea9cebc881e8033291c9daae49a74cb58"
+
+[update]
+[update.curseforge]
+file-id = 3544093
+project-id = 550104

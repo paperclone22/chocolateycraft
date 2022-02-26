@@ -1,0 +1,13 @@
+name = "PluckableArrows"
+filename = "pluckablearrows-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3644/845/pluckablearrows-1.2.3.jar"
+hash-format = "sha1"
+hash = "a731b51daac920f4cbc34ce1213fa9fb768f985c"
+
+[update]
+[update.curseforge]
+file-id = 3644845
+project-id = 568424

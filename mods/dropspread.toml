@@ -1,0 +1,13 @@
+name = "Drop Spread"
+filename = "dropspread-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3122/673/dropspread-1.0.jar"
+hash-format = "sha1"
+hash = "2284606d28eb62ba18a141527f0abb0deb77fa04"
+
+[update]
+[update.curseforge]
+file-id = 3122673
+project-id = 422459

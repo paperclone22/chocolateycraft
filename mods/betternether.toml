@@ -1,0 +1,13 @@
+name = "BetterNether"
+filename = "better-nether-6.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3636/290/better-nether-6.0.10.jar"
+hash-format = "sha1"
+hash = "89a17406861917b04690e49f6354c5b1814badb5"
+
+[update]
+[update.curseforge]
+file-id = 3636290
+project-id = 311377

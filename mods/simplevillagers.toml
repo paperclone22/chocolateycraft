@@ -1,0 +1,13 @@
+name = "SimpleVillagers"
+filename = "simplevillagers-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3656/522/simplevillagers-1.0.0.jar"
+hash-format = "sha1"
+hash = "94d8c47528aa84ea326a96ea999ec63990700cc1"
+
+[update]
+[update.curseforge]
+file-id = 3656522
+project-id = 582149

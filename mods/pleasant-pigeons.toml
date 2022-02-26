@@ -1,0 +1,13 @@
+name = "Pleasant Pigeons"
+filename = "pigeons-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3662/617/pigeons-1.1.0.jar"
+hash-format = "sha1"
+hash = "1a5e48dfdd8f5b8ff22c53ae81cdb761f4d9d252"
+
+[update]
+[update.curseforge]
+file-id = 3662617
+project-id = 580843

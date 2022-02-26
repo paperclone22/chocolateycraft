@@ -1,0 +1,13 @@
+name = "Paxi (Fabric)"
+filename = "Paxi-Fabric-1.18-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3631/270/Paxi-Fabric-1.18-1.0.jar"
+hash-format = "sha1"
+hash = "57561e342c429a222f7c93b6d8df87bc31482f39"
+
+[update]
+[update.curseforge]
+file-id = 3631270
+project-id = 418881

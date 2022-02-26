@@ -1,0 +1,13 @@
+name = "Hookshot"
+filename = "hookshot-r24.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3626/207/hookshot-r24.jar"
+hash-format = "sha1"
+hash = "c9c4a60dcfc5182834811c298763a2caac0a5158"
+
+[update]
+[update.curseforge]
+file-id = 3626207
+project-id = 396512

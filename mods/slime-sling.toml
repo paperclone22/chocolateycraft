@@ -1,0 +1,13 @@
+name = "Slime Sling"
+filename = "slime-sling-1.18-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/786/slime-sling-1.18-1.0.0.jar"
+hash-format = "sha1"
+hash = "e33b70bf87b370e1bd907cd62583ca5433e01022"
+
+[update]
+[update.curseforge]
+file-id = 3576786
+project-id = 436404

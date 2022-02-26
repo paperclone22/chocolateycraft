@@ -1,0 +1,13 @@
+name = "Mob proof crystals [Fabric]"
+filename = "mob-proof-crystals-2.2.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/790/mob-proof-crystals-2.2.1-1.18.jar"
+hash-format = "sha1"
+hash = "8fe50dcfea56e11e8319166e94fc8d95dfa8563b"
+
+[update]
+[update.curseforge]
+file-id = 3543790
+project-id = 423191

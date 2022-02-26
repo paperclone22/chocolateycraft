@@ -1,0 +1,13 @@
+name = "FastDecay"
+filename = "FastDecay-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/205/FastDecay-1.1.0.jar"
+hash-format = "sha1"
+hash = "49c76e7d8bb5fbec53becbf164543a879c1d3ae4"
+
+[update]
+[update.curseforge]
+file-id = 3642205
+project-id = 501223

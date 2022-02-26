@@ -1,0 +1,13 @@
+name = "StepUp"
+filename = "StepUp-1.18.0-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3556/627/StepUp-1.18.0-0.1.1.jar"
+hash-format = "sha1"
+hash = "4c05e7820477d02f87290722f08ead49a63d06ce"
+
+[update]
+[update.curseforge]
+file-id = 3556627
+project-id = 239236

@@ -1,0 +1,13 @@
+name = "Perfect Accuracy"
+filename = "PerfectAccuracy-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/249/PerfectAccuracy-1.2.jar"
+hash-format = "sha1"
+hash = "53344dc5645a75f5954fbfd2908112c3c5124bf5"
+
+[update]
+[update.curseforge]
+file-id = 3543249
+project-id = 469006

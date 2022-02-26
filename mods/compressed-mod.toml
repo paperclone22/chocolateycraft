@@ -1,0 +1,13 @@
+name = "Compressed Mod"
+filename = "compressed-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3564/360/compressed-1.4.1.jar"
+hash-format = "sha1"
+hash = "b1cfcf95c1066c5d76dba51a619f99bd3f548c1a"
+
+[update]
+[update.curseforge]
+file-id = 3564360
+project-id = 445844

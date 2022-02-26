@@ -1,0 +1,13 @@
+name = "CombustibleEntities"
+filename = "combustibleentities-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/958/combustibleentities-1.1.0.jar"
+hash-format = "sha1"
+hash = "91707fac8daaf250651cee3c295989479c831831"
+
+[update]
+[update.curseforge]
+file-id = 3586958
+project-id = 559706

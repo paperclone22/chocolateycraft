@@ -1,0 +1,13 @@
+name = "Automated Crafting"
+filename = "automated-crafting-1.4.3+MC1.18-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3644/564/automated-crafting-1.4.3+MC1.18-1.18.1.jar"
+hash-format = "sha1"
+hash = "0fed939b33110b1f5c7d14ce3f2381504364b884"
+
+[update]
+[update.curseforge]
+file-id = 3644564
+project-id = 389435

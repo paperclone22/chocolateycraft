@@ -1,0 +1,13 @@
+name = "Custom Fog"
+filename = "custom-fog-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3613/80/custom-fog-2.1.0.jar"
+hash-format = "sha1"
+hash = "a0b154e610b5b7b3b66267d1c471e47ac5bff60a"
+
+[update]
+[update.curseforge]
+file-id = 3613080
+project-id = 398774

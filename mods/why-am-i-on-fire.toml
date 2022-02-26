@@ -1,0 +1,13 @@
+name = "Why Am I on Fire?"
+filename = "whyamionfire-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/545/whyamionfire-1.1.1.jar"
+hash-format = "sha1"
+hash = "cda9dc2512b6e580f790675ca3eb4346943e0b69"
+
+[update]
+[update.curseforge]
+file-id = 3351545
+project-id = 470990

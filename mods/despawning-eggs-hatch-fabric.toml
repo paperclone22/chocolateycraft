@@ -1,0 +1,13 @@
+name = "Despawning Eggs Hatch (Fabric)"
+filename = "despawningeggshatch-fabric_1.18.x-2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/284/despawningeggshatch-fabric_1.18.x-2.3.jar"
+hash-format = "sha1"
+hash = "6a30bdf4d5b609083b92864847d082965eeb69b5"
+
+[update]
+[update.curseforge]
+file-id = 3542284
+project-id = 541248

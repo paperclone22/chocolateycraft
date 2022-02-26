@@ -1,0 +1,13 @@
+name = "More Ore Stones [FABRIC]"
+filename = "mores-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3624/60/mores-1.2.8.jar"
+hash-format = "sha1"
+hash = "ba374da1be68138dedd4d1b523f4cbae848b4ff7"
+
+[update]
+[update.curseforge]
+file-id = 3624060
+project-id = 538295

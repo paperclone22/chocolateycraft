@@ -1,0 +1,13 @@
+name = "HT's TreeChop"
+filename = "TreeChop-1.18.1-0.15.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3615/278/TreeChop-1.18.1-0.15.5.jar"
+hash-format = "sha1"
+hash = "932fd80cdde320c91086bae1d480ace249901a21"
+
+[update]
+[update.curseforge]
+file-id = 3615278
+project-id = 421377

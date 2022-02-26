@@ -1,0 +1,13 @@
+name = "Origins Extra Keybinds"
+filename = "extrakeybinds-1.18-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/366/extrakeybinds-1.18-0.1.0.jar"
+hash-format = "sha1"
+hash = "ba01680ccbd486e050b4582959a584b1b9952dce"
+
+[update]
+[update.curseforge]
+file-id = 3542366
+project-id = 474612

@@ -1,0 +1,13 @@
+name = "Aspects | Origins Addon"
+filename = "aspects-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/783/aspects-1.0.5.jar"
+hash-format = "sha1"
+hash = "52e3744a45e950a7d9804835c5a3e479e071419d"
+
+[update]
+[update.curseforge]
+file-id = 3566783
+project-id = 556745

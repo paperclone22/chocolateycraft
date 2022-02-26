@@ -1,0 +1,13 @@
+name = "Expanded Armor Enchanting"
+filename = "expanded-armor-enchanting-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/181/expanded-armor-enchanting-1.0.2.jar"
+hash-format = "sha1"
+hash = "c24578e7745aafa94333784863ae13c309643420"
+
+[update]
+[update.curseforge]
+file-id = 3575181
+project-id = 486303

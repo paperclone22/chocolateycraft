@@ -1,0 +1,13 @@
+name = "Compact UI"
+filename = "compact-ui-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3557/204/compact-ui-2.0.0.jar"
+hash-format = "sha1"
+hash = "b549b12b517edae0cb4e7d632bc11775bd295035"
+
+[update]
+[update.curseforge]
+file-id = 3557204
+project-id = 522667

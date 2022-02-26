@@ -1,0 +1,13 @@
+name = "Bits Of Bark"
+filename = "bitsofbark-0.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3648/666/bitsofbark-0.1-1.18.jar"
+hash-format = "sha1"
+hash = "0a2ec25a092528d3fd7f6c0194a6585b6ea496a8"
+
+[update]
+[update.curseforge]
+file-id = 3648666
+project-id = 525220

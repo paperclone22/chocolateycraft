@@ -1,0 +1,13 @@
+name = "HT's TreePlant"
+filename = "TreePlant-1.18.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3622/814/TreePlant-1.18.1-0.3.0.jar"
+hash-format = "sha1"
+hash = "c23e2fe341eec30528048cf16d207c3cf61257e7"
+
+[update]
+[update.curseforge]
+file-id = 3622814
+project-id = 433969

@@ -1,0 +1,13 @@
+name = "Grind Enchantments"
+filename = "grind-enchantments-1.5.0+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3554/978/grind-enchantments-1.5.0+1.18.jar"
+hash-format = "sha1"
+hash = "666fd49c7076dbe40a6876a818ac51b46524bf3d"
+
+[update]
+[update.curseforge]
+file-id = 3554978
+project-id = 379680

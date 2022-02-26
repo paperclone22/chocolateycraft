@@ -1,0 +1,13 @@
+name = "Expanded Axe Enchanting"
+filename = "expanded-axe-enchanting-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/167/expanded-axe-enchanting-1.0.3.jar"
+hash-format = "sha1"
+hash = "5ad5c8314e18fd2caf6fb3130842f22ab256b0bc"
+
+[update]
+[update.curseforge]
+file-id = 3575167
+project-id = 486137

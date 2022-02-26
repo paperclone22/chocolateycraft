@@ -1,0 +1,13 @@
+name = "Better Chainmail"
+filename = "betterchainmail-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T7jUoQRM/versions/0.1.0/betterchainmail-0.1.0.jar"
+hash-format = "sha1"
+hash = "d664d0112fed4d63e18555327bcafcc3786cf187"
+
+[update]
+[update.modrinth]
+mod-id = "T7jUoQRM"
+version = "cbSd5iI7"

@@ -1,0 +1,13 @@
+name = "Hardened Crops"
+filename = "hardened-crops-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/44/hardened-crops-1.0.jar"
+hash-format = "sha1"
+hash = "ef082e358dc14e44a40e119daf2948df79ec6762"
+
+[update]
+[update.curseforge]
+file-id = 3576044
+project-id = 559179

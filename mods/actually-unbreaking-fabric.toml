@@ -1,0 +1,13 @@
+name = "Actually Unbreaking [Fabric]"
+filename = "actuallyunbreaking-1.18.1-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3639/818/actuallyunbreaking-1.18.1-0.2.1.jar"
+hash-format = "sha1"
+hash = "53864e894c642708f3ffa182d657cd624ee1abbe"
+
+[update]
+[update.curseforge]
+file-id = 3639818
+project-id = 442960
