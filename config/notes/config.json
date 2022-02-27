@@ -1,0 +1,8 @@
+{
+  "dateFormat": "yyyy-MM-dd hh:mm a",
+  "useInGameEditor": true,
+  "useInGameViewer": true,
+  "pinnedNotePosition": "center_right",
+  "pinnedWidthScale": 0.2,
+  "pinnedHeightScale": 1.0
+}
