@@ -1,0 +1,13 @@
+name = "StepUpNext"
+filename = "stepup-1.18-fabric0.43.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/444/stepup-1.18-fabric0.43.1-1.1.jar"
+hash-format = "sha1"
+hash = "2ec474dc958256320a24b8d167d57e403f71643a"
+
+[update]
+[update.curseforge]
+file-id = 3543444
+project-id = 355753

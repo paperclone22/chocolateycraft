@@ -986,8 +986,8 @@ hash = "7df690462262a15575715d61e294e3934416eddb8581460f990aba5ad98d0a3f"
 metafile = true
 
 [[files]]
-file = "mods/stepup.toml"
-hash = "54a82f9997317f7947e10dcf819c90e6acccf6b9612f871dad832586c69c50b7"
+file = "mods/stepupnext.toml"
+hash = "9c0436eac211f573091a3d515ad5b07ecd266a664ea2d24c0f14c916cca357ea"
 metafile = true
 
 [[files]]
