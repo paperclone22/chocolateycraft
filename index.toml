@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Adorn.json5"
-hash = "793501579804e19d32fc14020c3e0c41a92d58c94c469c7fa3b934ec1187cab6"
-
-[[files]]
 file = "config/actuallyunbreaking.json"
 hash = "c656cf6f0bb171b11175787660dfb12bf5bc68bb2bfc3a56d5319693aee5c18e"
 
@@ -15,10 +11,6 @@ hash = "953d925ac98d75a34e5874e373d1a4840e9121d14324c047954da92e1b4fa9a5"
 [[files]]
 file = "config/advancementinfo.json5"
 hash = "82fb3f9fd7931ded27c4c0cc78b86bed8a82e2d17b587f26f3a094a8589e13e6"
-
-[[files]]
-file = "config/animatica.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -173,20 +165,8 @@ file = "config/bewitchment.json"
 hash = "d6ec18b74ca9855f70a15d90aecead2e4fde43c5ae0fa496ab006457bbeca3de"
 
 [[files]]
-file = "config/blocktuner.properties"
-hash = "e5c85f22774fa1b9ae765207b2589939c88d19bb838811de393a226ed6404e3e"
-
-[[files]]
 file = "config/boat_step_up.json"
 hash = "5dcd00f6ff15eed3a8542507b5fa8f6ebe25a9f34fa9a1a38230fd82308c1da4"
-
-[[files]]
-file = "config/botania-client.json5"
-hash = "3af2bcf73d631d6f0ce4486193d75a57f7843c7e6bf03c53397e36e6d0789ee8"
-
-[[files]]
-file = "config/botania-common.json5"
-hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
 
 [[files]]
 file = "config/brb.toml"
@@ -205,10 +185,6 @@ file = "config/carpet/default_carpet.conf"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/carrier.json"
-hash = "41c90b84a9c7d44d250fefd942d476ffe2d3369192901c68b5d5665685f5b93d"
-
-[[files]]
 file = "config/cave_tweaks.json"
 hash = "c707cb425fa061cde15b07cc3fe431a2d6feddf5a72bcaf3aa025f5a32982391"
 
@@ -219,10 +195,6 @@ hash = "314e5382c4f0ac6fb9fea3d5625ca136433fd996572ae78ba160896e480dbcc6"
 [[files]]
 file = "config/cleardespawn.toml"
 hash = "d2330ec90f55427e4e995b971ab7799200e115fcf3d9e8d63000c67f04e6a13a"
-
-[[files]]
-file = "config/collective-fabric.json"
-hash = "a96dc1d34609e0ed2d4bd3c3cab74944040d52000d9dffe3047865e14f2bb14b"
 
 [[files]]
 file = "config/comforts.json5"
@@ -241,16 +213,8 @@ file = "config/couplings.toml"
 hash = "4f06a78d802b1aadd5f3a04604e4d29dde0e4b3c65de09c6a6f880d613a6381c"
 
 [[files]]
-file = "config/crowdin.txt"
-hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
-
-[[files]]
 file = "config/crystal.properties"
 hash = "8bd480f66b2caf38935c177c66fca52dc4230519c5ca12903b841275ccf4bfe8"
-
-[[files]]
-file = "config/despawningeggshatch-fabric.json"
-hash = "b9047ee6fda48f134b570612a153f25031bd524b92eea80ef8c565388d3288d4"
 
 [[files]]
 file = "config/diggusmaximus/blacklist.json5"
@@ -267,10 +231,6 @@ hash = "96e2ad88c0f959126c4b5c0fd67f2babda3d2f93d3adc73616634b008ac844e5"
 [[files]]
 file = "config/diggusmaximus/grouping.json5"
 hash = "ef4721e167e20865ec1b660e75471a86364e6cc653404baefd1d66938d8bb900"
-
-[[files]]
-file = "config/dim_height.json"
-hash = "ae2be24993ab2d81a210b9686a7d28ed302587834468729153b67ee7c114085d"
 
 [[files]]
 file = "config/drg_flares_server.json"
@@ -301,16 +261,8 @@ file = "config/enchantedtooltips/enchants.json5"
 hash = "3537f1695e2097ed3d2bb61b586b44d9dcc3c9d666c4f08efaafd30ebdfb91d2"
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "c22f28d7981bfea382b12c4417443434fc18256646346599d4d75f6856470d02"
-
-[[files]]
 file = "config/entity_texture_features.json"
 hash = "4b5856803b313a8a78a423d4e09a26ab3adb391440f41ed7e9f057cde0bfdc49"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
 file = "config/expanded_armor_enchanting.json"
@@ -337,10 +289,6 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "03fa1aac28f4e018fcfcf1b9099f31c6840efcf03f05332b0aba03a1c9e2beef"
 
 [[files]]
-file = "config/fast-chest.properties"
-hash = "875b5fdc37bb3013734cd0172f8f10ac879dd62a4ebfa5662ebd550411d2fc75"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "fc00a2f34084275b3d0f5424cf8aeb49a3a718837894ac91af7cf0d82a9db4fa"
 
@@ -349,16 +297,8 @@ file = "config/flytre_lib.json5"
 hash = "31d8f0341208a512d4ebf195391782a36cd98cc0af0de70d08e19a6d31d41492"
 
 [[files]]
-file = "config/grindenchantments.json"
-hash = "1055036ce9fa428204dcf4e7092e5831cc3a389e44c078c9c0bcee50f2cf55a4"
-
-[[files]]
 file = "config/guardvillagers.json"
 hash = "85d2e46a62ad9891aedae62fd9a19e63bdf4fe1b11c9b0ab7ece0288296448c2"
-
-[[files]]
-file = "config/hardened-crops.properties"
-hash = "dbbe11a28aafb6e1b03bfb1dd0cbface33c411bb4f1602d3e1797def8432b525"
 
 [[files]]
 file = "config/healthoverlay.json5"
@@ -389,24 +329,8 @@ file = "config/indium-renderer.properties"
 hash = "2f762c9d428cfd60e17b500e8ddcba5a9e089cd35577792bae07ca389184bf6d"
 
 [[files]]
-file = "config/inspecio.json"
-hash = "b7e6193f25e9f5921404fd4ed3fedb0e713718359a2a998d5b279c85e037b5a3"
-
-[[files]]
-file = "config/itemmodelfix.json"
-hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
-
-[[files]]
 file = "config/kleeslabs.toml"
 hash = "98a1a66c5dcef33f5aa42e7dbe6f15765098795065ce45db0fcdc95ab4239e67"
-
-[[files]]
-file = "config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
 file = "config/mostructures-config-v2.json5"
@@ -425,10 +349,6 @@ file = "config/netherchest.json"
 hash = "b94bc92d579d7f8d8d455a8dbb74a6c40f864da5eebead7b9e33ccb10f4f8ba0"
 
 [[files]]
-file = "config/notenoughcrashes.json"
-hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
-
-[[files]]
 file = "config/notes/config.json"
 hash = "037aa4f42fcbbd033464eb191820b5953444eb0645759a7a6d415682f552a768"
 
@@ -439,10 +359,6 @@ hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
 [[files]]
 file = "config/oxidized_config.json"
 hash = "16479cc1b25062b77ae8fbe46e8bbde901461866d44e9da9d0bad3d923396621"
-
-[[files]]
-file = "config/patchouli.json5"
-hash = "92dc9dadb34707462bf5574bb597430b3b34c65eccf964a31680d402f0431ccf"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -501,16 +417,8 @@ file = "config/repurposed_structures-fabric/natural_mob_spawning_configs.json5"
 hash = "40f83b5a149652a160bddc480ea8b03a2a352a07f9f90461988a55e2134f68a1"
 
 [[files]]
-file = "config/rrp.properties"
-hash = "bb397ade56de8624af3ed9ed172992e779946622303cb63ff94572c6c7db86fc"
-
-[[files]]
 file = "config/servercore.toml"
 hash = "f8e67ff22fc8f1f53d5a507cf7c84e8ec36000d8f71fea5e439836bb965fa7a9"
-
-[[files]]
-file = "config/simple-rpc-server.toml"
-hash = "8f8b794d182448eb0eee64ebf0349d8d9bb5e8afd623b749f2d5c2a0cbf215ae"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -563,10 +471,6 @@ hash = "6efb18c00b43f14fcc908018244e91a8a93e27935feaf5bd44811314d37feb4a"
 [[files]]
 file = "config/whereisit.json"
 hash = "147c756def06aeb4f749b939bd90dbde46f2aea7e6b1372af8c39cbbf22ce319"
-
-[[files]]
-file = "config/wood-barks.json"
-hash = "3c689c87baf6b4daff3671fce9dcf652d0ffcb18c729eeaeacf6ea53501331b0"
 
 [[files]]
 file = "config/xp_storage/books.json"
@@ -767,10 +671,6 @@ hash = "f0c109e6b0c1795b8c8bed4a1f49182a4071289bcb6e0cfa361076abe5c3f418"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "1742ca1ce26773d1d04127c35257e3fe0083afb3f1eeb42610f8754f5407ea54"
-
-[[files]]
-file = "config/zoomify.json"
-hash = "6db7622bd5e7c225ae505b140a8ffa9ec40ce1f08ecf8f5f38b7f58304c3e99e"
 
 [[files]]
 file = "mods/actually-unbreaking-fabric.toml"
