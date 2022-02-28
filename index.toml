@@ -738,7 +738,7 @@ hash = "f0c109e6b0c1795b8c8bed4a1f49182a4071289bcb6e0cfa361076abe5c3f418"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1742ca1ce26773d1d04127c35257e3fe0083afb3f1eeb42610f8754f5407ea54"
+hash = "10a0800b5517f4deaaad883ada92794bc7bbe5a21d4a8b36b9937c45df05cf06"
 
 [[files]]
 file = "mods/actually-unbreaking-fabric.toml"
@@ -1854,3 +1854,91 @@ metafile = true
 file = "mods/zoomify.toml"
 hash = "941287009b380b3746d7eb1c7377a67b66804e1391f53f5821c66898c9bda96d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Beautiful+prot.+4.zip"
+hash = "fdd36ef7a49e8d2eead8fb155651b4bfd63ee53c9634a2b76eae84dc6f8d9254"
+
+[[files]]
+file = "resourcepacks/Brewing_Stand_3D.zip"
+hash = "a2f8d25198c8c365eeb5af279813b0b9c2846753fceabfd6a983766949043919"
+
+[[files]]
+file = "resourcepacks/Crops-3D_MC1.16.5_v1.0.0.zip"
+hash = "0d24157431e370a01041bcb3351b35c4b103f14022e67170d5d3e979ec5be769"
+
+[[files]]
+file = "resourcepacks/Dramatic+Skys+Demo+1.4.zip"
+hash = "bc50d8e6bfbbd66a55adfa679ab4e35d26c0e461a619953b760039c4091005dd"
+
+[[files]]
+file = "resourcepacks/Improved Fences - All Planks Add-On V1.2.zip"
+hash = "3917f6a9c4857fc3ba1f97cc0365d7295ebdd63c79057f22b11158f5cf6a77cc"
+
+[[files]]
+file = "resourcepacks/Improved Fences V1.2.zip"
+hash = "5da7b3a9a0f7c488c29b4d411e4b2a6d53a8501d6a6e3e9f9eb20eff712a3b09"
+
+[[files]]
+file = "resourcepacks/MinimalArmor1.18.zip"
+hash = "afd9de086f4a55a85da31a3d2b78471465245490f0697ca851b6bdd66d5aa97b"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "cee0a6bd5fd17342dd04ef7736b826c0b022bf4f143714078a8e7dbf79d9a4ed"
+
+[[files]]
+file = "resourcepacks/MultiClock-v5-r0.zip"
+hash = "81d7ddae18e6cabea4f699353c0004c6d7bdc497ad10eeee5616dccb6823d3e4"
+
+[[files]]
+file = "resourcepacks/Pet_Dragons.zip"
+hash = "939aecd1c73e46db2fd78bedc7728d9b275bc058d168f8ff0c7b566e91e857bf"
+
+[[files]]
+file = "resourcepacks/QUART!.zip"
+hash = "00f52eff55171e7befb9f0f7aa61baba88749b2a9181419330ef2ca5ea209ab5"
+
+[[files]]
+file = "resourcepacks/Scientific+Sky+Simulator+1.18.zip"
+hash = "26f7a388c0f38b7645c006edbdb3196795bf251d3ce4bd2ef64a35adb49ac15d"
+
+[[files]]
+file = "resourcepacks/Tissou's+Zombie+Pack+1.18_2.1.zip"
+hash = "3524ea7b60fe3be0aead6d28f6fa7f5877f24bf216db47509d11e69b040faa28"
+
+[[files]]
+file = "resourcepacks/Tooniverse+1.0.3+[64x]-edit.zip"
+hash = "e7999fde2055b538a12134466a0ae6e5653bd65f981f3a366fe2aaddc30509f0"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r787938-compat.zip"
+hash = "e0e07daec42eec470844c67a00c4ec468fa976f91d1c1c888aa894919c718029"
+
+[[files]]
+file = "resourcepacks/copper-golem-anvils.zip"
+hash = "e7aa4d638a77cd2905578875cdeadf6d73dd89521c2dfc6afa0ec6e5b778bf50"
+
+[[files]]
+file = "resourcepacks/earth-golems.zip"
+hash = "9b7f0ba713450c55781dbb34c7fcc27af4150d5a9693c0ad89c47f0ca294d523"
+
+[[files]]
+file = "resourcepacks/faithless.zip"
+hash = "b7dfffb1577b5be45481a7bba680e1a812e122d92851223ee1af07d772a15098"
+
+[[files]]
+file = "resourcepacks/giant-villager-hat.zip"
+hash = "819e4af550810e76f0c1fb3794aaceff2f053a53a9ebf34f604cf938e72ce390"
+
+[[files]]
+file = "resourcepacks/jv-hats-v1-6.zip"
+hash = "7e43c4d186b68cc591c8dda5e5a402da97f8e67e41eddacc31c37985b00662b8"
+
+[[files]]
+file = "resourcepacks/pokemobs-e1611.zip"
+hash = "6a472f1a064f779b828fd07a59217fbf3c19a343443dbdb0b84214157444303e"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.3.2-edited.zip"
+hash = "71da1452b11581d0a72261828862f00ec63f9c523b6800f705a8b3cd46142b07"

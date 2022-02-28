@@ -14,7 +14,7 @@ realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","Fabric Mods","file/VanillaTweaks_r787938-compat.zip","file/Dramatic+Skys+Demo+1.4.zip","file/faithless.zip","file/Beautiful+prot.+4.zip","file/Tooniverse+1.0.3+[64x]-edit.zip","file/Improved Fences - All Planks Add-On V1.2.zip","file/Improved Fences V1.2.zip","file/MultiClock-v5-r0.zip","file/Tissou\u0027s+Zombie+Pack+1.18_2.1.zip","file/copper-golem-anvils.zip","file/earth-golems.zip","file/giant-villager-hat.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/MinimalArmor1.18.zip"]
+incompatibleResourcePacks:["file/Beautiful+prot.+4.zip","file/MultiClock-v5-r0.zip","file/earth-golems.zip","file/giant-villager-hat.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip"]
 lastServer:
 lang:en_us
 soundDevice:
