@@ -365,6 +365,74 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/VanillaTweaks_recipies_c986449.zip"
+hash = "40c34a70faf6102c88b91014f81db11c451d61c8ee9dfdc828db7fef142984c7"
+
+[[files]]
+file = "config/paxi/datapacks/afk display v1.1.2.zip"
+hash = "06ddc43cc7bf45c425fcc9c095cc6370f1134b5e6afcbbbaa39bfcfa2df5acd2"
+
+[[files]]
+file = "config/paxi/datapacks/armor statues v2.8.3.zip"
+hash = "2b43f1f0beb1acc4a49a677ed00739de3a1d9d3887041fb416bf2101216f0a00"
+
+[[files]]
+file = "config/paxi/datapacks/back v1.3.2.zip"
+hash = "d5b9cdf2e95b2dba7d021f3ede55a1dd3e206caf29996bdef0aa123c3a36cea5"
+
+[[files]]
+file = "config/paxi/datapacks/cauldron concrete v2.0.5.zip"
+hash = "d601260f11bfddbba4b17a97a6fbfd923ee9adcce878be22e9fab28d21720d1b"
+
+[[files]]
+file = "config/paxi/datapacks/double shulker shells v1.3.2.zip"
+hash = "1cb1be839063298703ea38aaf27b624049fbc4bcac8b395ff6a076cbf5b90cfa"
+
+[[files]]
+file = "config/paxi/datapacks/dragon drops v1.3.2.zip"
+hash = "57dc8bdeca2a54c3cf5cf5167341b6e620008f0ee81d39b6711bd37a8af5179e"
+
+[[files]]
+file = "config/paxi/datapacks/fast leaf decay v2.0.5.zip"
+hash = "6678d65d0b30ba1014151d3a46445cf6efb4b3539a03f20d30699070c7a9d01a"
+
+[[files]]
+file = "config/paxi/datapacks/graves v2.8.5.zip"
+hash = "87ae6eda2140285b0d80a9ae10eeb2299c25a7062022f8181555d15dea5a7763"
+
+[[files]]
+file = "config/paxi/datapacks/homes v1.5.3.zip"
+hash = "784269cefc4500180f4f582b8a5dfd4cb2aca23ccbe73f4188e4d9f963cf0eb5"
+
+[[files]]
+file = "config/paxi/datapacks/larger phantoms v1.2.3.zip"
+hash = "8de673f24d922278de33e3a0a970a96c05cad2bf41dcf8ba921c43e6786fb565"
+
+[[files]]
+file = "config/paxi/datapacks/more mob heads v2.9.4.zip"
+hash = "760ad5578d1a2591de3a18bccac071e7130929e48704ba3f72d1c1364116907a"
+
+[[files]]
+file = "config/paxi/datapacks/multiplayer sleep v2.6.2.zip"
+hash = "3daed408341d0a6c1767be7ed87bf7160bab45dd9c88391b2c6bc322c38b8ebf"
+
+[[files]]
+file = "config/paxi/datapacks/player head drops v1.1.2.zip"
+hash = "1d05bf4f7cba485fa596d513eac6a3b1c146caad79910e09b9c9db9ea09ce341"
+
+[[files]]
+file = "config/paxi/datapacks/silence mobs v1.1.2.zip"
+hash = "25221c4b4920c3bd9a9d25907a5c27173f453894da4821e61318460536c63784"
+
+[[files]]
+file = "config/paxi/datapacks/spawn v2.3.2.zip"
+hash = "c7bd5b568bb1c82e7650065cf2f3a0b68a0b97c73207e0e8a0b72f507229c9e6"
+
+[[files]]
+file = "config/paxi/datapacks/tpa v2.3.2.zip"
+hash = "532c44d046394edabde273419d32cdcdb5cd0e46629dda07801c0be53c28b63b"
+
+[[files]]
 file = "config/pehkui/config.json"
 hash = "e370cb68f235741c2d43e4b5bbbd4f6b5dc6d74a7193fdaf16817921c9fb6c69"
 
