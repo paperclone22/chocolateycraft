@@ -1496,11 +1496,6 @@ hash = "a66824c7f51cda46c30dc0c9914e30cd9c7afa43afc01cbabb2c48ba81b2b5ec"
 metafile = true
 
 [[files]]
-file = "mods/nocubes.toml"
-hash = "151b3f559f8a59d92f26ed940fa3d40f170c56bf82d5ea7118fe3e7abda2763a"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "3c059bb33cf8656273f189f53a7c05289c9f025f54e2936e9200ba1817093f5c"
 metafile = true
