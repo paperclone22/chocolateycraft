@@ -1311,11 +1311,6 @@ hash = "6060cd794cd8a93bf7018852045282b1117fe1358740cbcc54ada473734024bf"
 metafile = true
 
 [[files]]
-file = "mods/healthcare.toml"
-hash = "af68a44e4ada606ed15d00781ea73ad55cc5a8018771177c16b14a83f40cba6e"
-metafile = true
-
-[[files]]
 file = "mods/hearty-trinkets.toml"
 hash = "2b02afff1ba3c07049b531653d8b76549c17c87547af7db2ce7a5f3fbe5fef5c"
 metafile = true
