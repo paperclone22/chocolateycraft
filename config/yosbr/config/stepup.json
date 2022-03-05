@@ -10,7 +10,7 @@
     "value": 0,
     "defaultValue": 0,
     "minValue": 0,
-    "maxValue": 0
+    "maxValue": 2
   },
   "mod.stepup.config.default": {
     "options": [
@@ -24,5 +24,18 @@
     "defaultValue": 0,
     "minValue": 0,
     "maxValue": 2
+  },
+  "Minecraft Server": {
+    "options": [
+      "mod.stepup.config.dostepup",
+      "mod.stepup.config.nostepup",
+      "mod.stepup.config.vanillajump"
+    ],
+    "key": "Minecraft Server",
+    "toolTip": "mod.stepup.config.tt.onthisserver",
+    "value": 0,
+    "defaultValue": 0,
+    "minValue": 0,
+    "maxValue": 0
   }
 }

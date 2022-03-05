@@ -127,7 +127,7 @@ for this
 <li><a href="https://www.curseforge.com/projects/571503">Guard Villagers (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/559179">Hardened Crops</a></li>
 <li><a href="https://www.curseforge.com/projects/313219">Health Overlay (Fabric)</a></li>
-<li><a href="https://www.curseforge.com/projects/466750">HealthCare</a></li>
+<!-- <li><a href="https://www.curseforge.com/projects/466750">HealthCare</a></li> -->
 <li><a href="https://www.curseforge.com/projects/567728">Hearty Trinkets</a></li>
 <li><a href="https://www.curseforge.com/projects/429291">Here be no Dragons!</a></li>
 <li><a href="https://www.curseforge.com/projects/396512">Hookshot</a></li>
@@ -165,7 +165,7 @@ for this
 <li><a href="https://www.curseforge.com/projects/452768">No Fade</a></li>
 <li><a href="https://www.curseforge.com/projects/546841">No Null Processors</a></li>
 <li><a href="https://www.curseforge.com/projects/530816">No Telemetry</a></li>
-<li><a href="https://www.curseforge.com/projects/309664">NoCubes</a></li>
+<!-- <li><a href="https://www.curseforge.com/projects/309664">NoCubes</a></li> -->
 <li><a href="https://www.curseforge.com/projects/353890">Not Enough Crashes (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/388252">Notes Fabric</a></li>
 <li><a href="https://www.curseforge.com/projects/570354">Nullscape ~ End Reborn</a></li>

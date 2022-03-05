@@ -1,6 +1,6 @@
 _Versions = "1.6.2a"
 # Show the lod button in the options screen next to fov
-optionsButton = false
+optionsButton = true
 
 [client]
 
@@ -21,7 +21,7 @@ optionsButton = false
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 64
+			lodChunkRenderDistance = 32
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
