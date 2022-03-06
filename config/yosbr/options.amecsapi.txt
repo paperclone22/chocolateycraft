@@ -125,5 +125,3 @@ key_modifiers_gui.xaero_open_settings:0,0,0
 key_modifiers_gui.xaero_map_zoom_in:0,0,0
 key_modifiers_gui.xaero_map_zoom_out:0,0,0
 key_modifiers_gui.xaero_quick_confirm:0,0,0
-key_modifiers_zoomify.key.zoom:0,0,0
-key_modifiers_zoomify.key.gui:0,0,0

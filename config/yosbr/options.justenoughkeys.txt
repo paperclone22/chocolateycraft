@@ -125,5 +125,3 @@ modifiers.gui.xaero_open_settings:
 modifiers.gui.xaero_map_zoom_in:
 modifiers.gui.xaero_map_zoom_out:
 modifiers.gui.xaero_quick_confirm:
-modifiers.zoomify.key.zoom:
-modifiers.zoomify.key.gui:

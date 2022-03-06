@@ -1354,11 +1354,6 @@ hash = "ef603585399b26fbf0f5de2f33491383c39d9dadf96b0dc19af4de84ded7fbea"
 metafile = true
 
 [[files]]
-file = "mods/fastchest.toml"
-hash = "f444a0dd384745a371f4c0a646a4791efe2bb371f0488cde9ab919b51c632169"
-metafile = true
-
-[[files]]
 file = "mods/fastdecay.toml"
 hash = "da9fc83621a99f7b2f6600c8e2f6e34c131a4f70febc8bd701adb055365dff2a"
 metafile = true
@@ -1496,11 +1491,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs-fabric.toml"
 hash = "9aaf79b4f4dc83c72bc46d65606cb9708aa27f8336ba628f4ff3b5f3f3f62c88"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.toml"
-hash = "60c3a88c0c08c0b8e816613fd2aaae6cab5861bb65de3dc897de4fdd25cdded2"
 metafile = true
 
 [[files]]
@@ -1951,11 +1941,6 @@ metafile = true
 [[files]]
 file = "mods/zombify.toml"
 hash = "3fb1eedbe3329b8b700bf33c85c55fe11065410a72bd6e8b602af96f9451cd2f"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.toml"
-hash = "941287009b380b3746d7eb1c7377a67b66804e1391f53f5821c66898c9bda96d"
 metafile = true
 
 [[files]]

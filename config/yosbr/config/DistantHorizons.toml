@@ -51,7 +51,7 @@ optionsButton = true
 			#     Use SMOOTH_DROPOFF for less then 128 Lod render distance, 
 			#     or PERFORMANCE_FOCUSED otherwise. 
 			#
-			dropoffQuality = "AUTO"
+			dropoffQuality = "PERFORMANCE_FOCUSED"
 
 		[client.graphics.fogQuality]
 			# At what distance should Fog be drawn on the fake chunks? 
@@ -107,7 +107,7 @@ optionsButton = true
 			#
 			# This setting shouldn't affect performance. 
 			#
-			vanillaOverdraw = "DYNAMIC"
+			vanillaOverdraw = "BORDER"
 			# Will prevent some overdraw issues, but may cause nearby fake chunks to render incorrectly 
 			# especially when in/near an ocean. 
 			#
@@ -264,5 +264,5 @@ optionsButton = true
 			# How frequently should vertex buffers (geometry) be rebuilt and sent to the GPU? 
 			# Higher settings may cause stuttering, but will prevent holes in the world 
 			#
-			rebuildTimes = "NORMAL"
+			rebuildTimes = "RARE"
 
