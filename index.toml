@@ -1284,6 +1284,11 @@ hash = "69aeed63058057dc3564d7487402fad911901b0927f96039559dac33205d2a9f"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials-fabric.toml"
+hash = "e8fae835b76e91bf514cbad595b88acb583b78b4f62f0a5c733fb87015748037"
+metafile = true
+
+[[files]]
 file = "mods/entity-texture-features-fabric.toml"
 hash = "2589477b86c240cfbad7c6a0c64893297ff2c00e0b5cb362cb1609d675ae88bc"
 metafile = true
@@ -1691,11 +1696,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "08d6f4049183a46962e3b6cf94195dfb5fc214047cb2df6df8ca9c3b9fcfa082"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.toml"
-hash = "2f5a8ebb790545d077be4082eb81414cd56fc1c5e8b71a6698380e4619f13cae"
 metafile = true
 
 [[files]]

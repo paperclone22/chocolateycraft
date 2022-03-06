@@ -89,7 +89,6 @@ modifiers.key.notes.open_notes_menu:
 modifiers.key.origins.primary_active:
 modifiers.key.origins.secondary_active:
 modifiers.key.origins.view_origin:
-modifiers.presencefootsteps.settings.key:
 modifiers.key.small_artifacts.ender_sack:
 modifiers.key.spyglass-improvements.use:
 modifiers.key.stepup.toggle:

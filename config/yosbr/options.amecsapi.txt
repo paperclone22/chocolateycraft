@@ -89,7 +89,6 @@ key_modifiers_key.notes.open_notes_menu:0,0,0
 key_modifiers_key.origins.primary_active:0,0,0
 key_modifiers_key.origins.secondary_active:0,0,0
 key_modifiers_key.origins.view_origin:0,0,0
-key_modifiers_presencefootsteps.settings.key:0,0,0
 key_modifiers_key.small_artifacts.ender_sack:0,0,0
 key_modifiers_key.spyglass-improvements.use:0,0,0
 key_modifiers_key.stepup.toggle:0,0,0
