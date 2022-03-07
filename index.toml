@@ -1804,7 +1804,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-fabric.toml"
-hash = "2e8c474c2ab19fc4105875e7398911d7dac551c85d9225225d9e8e9ba5374be9"
+hash = "17f1682d7f372d93fcca2e0826aecc1afcff51f983b71a6d11142190018a68ee"
 metafile = true
 
 [[files]]

@@ -3,6 +3,7 @@
 ## TODO List
 
 - test eden ring
+  - weird grass texture
 - add Origins datapacks
 - test in a server environment
 
