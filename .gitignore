@@ -3,3 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# puzzle cache
+**/.puzzle_cache*/

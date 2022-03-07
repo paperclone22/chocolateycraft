@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# puzzle cache
+**/.puzzle_cache*/
