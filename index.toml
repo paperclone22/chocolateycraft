@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/.puzzle_cache/mojangstudios.png"
-hash = "feb89930ff452245d8f9ca6b065670033ac99c277f1613a43a5789e17c4e463a"
-
-[[files]]
 file = "config/yosbr/config/Adorn.json5"
 hash = "793501579804e19d32fc14020c3e0c41a92d58c94c469c7fa3b934ec1187cab6"
 
