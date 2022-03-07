@@ -865,11 +865,6 @@ hash = "7a788032ed19bb951344c3fae94538657ee6a06f90d4e378a39b7ba0b83ccce9"
 metafile = true
 
 [[files]]
-file = "mods/advancements-enlarger.toml"
-hash = "eea30bf3a3f1f9350f871b5b652068b890acaeecca92dd74bae45c2a1b833f0f"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.toml"
 hash = "da0d6a42bbea6e10b150dca42f855a533b7431ab5018ed6b07048c8891229455"
 metafile = true
@@ -1135,11 +1130,6 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
-file = "mods/collective-fabric.toml"
-hash = "a9b361789fc8693e171d1c33ec07785995f610436b9bf70c21cd5fb334306b2b"
-metafile = true
-
-[[files]]
 file = "mods/colormatic.toml"
 hash = "29e90bc358183319c225aaf0bf97a7d24c928b49dea0adfffa02fea8f6bb7644"
 metafile = true
@@ -1195,11 +1185,6 @@ hash = "11721b24ad835b85d137d6f4676101d33e854948fd93558d1bb2da51acec22d1"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.toml"
-hash = "4754813e43ba908c01de0a8deccdd427367cbaa0502e8ebeb633049c6361c3f3"
-metafile = true
-
-[[files]]
 file = "mods/dcch.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
@@ -1207,11 +1192,6 @@ metafile = true
 [[files]]
 file = "mods/deathlog.toml"
 hash = "d8169e23286e46642166e35d7159cd0a48a47901842676d269b8f806fa005489"
-metafile = true
-
-[[files]]
-file = "mods/despawning-eggs-hatch-fabric.toml"
-hash = "d3679455e6042d073c794647e691db2fd3c2b95485060e36e350faa382257f68"
 metafile = true
 
 [[files]]
@@ -1386,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.toml"
-hash = "537ac6dc1b240be4afc0294b1520fe9d5e94be44be7796d01af422a1371e5ea7"
+hash = "661720257dc0d6c5b21e34ffbfbc18862e06d8da119a438443e6b5e01f36d722"
 metafile = true
 
 [[files]]
@@ -1432,11 +1412,6 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "6b930ae71b10d9cb6e27d48f5cd42433641c04fb3a7e13f9f2d44d2e60daed2c"
-metafile = true
-
-[[files]]
-file = "mods/infusion-table.toml"
-hash = "a216f13faa60fef3a4c10debdf127a6d94b74acf4cbf369c92c2ee7bbb1b771e"
 metafile = true
 
 [[files]]
@@ -1572,11 +1547,6 @@ metafile = true
 [[files]]
 file = "mods/no-null-processors.toml"
 hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.toml"
-hash = "a66824c7f51cda46c30dc0c9914e30cd9c7afa43afc01cbabb2c48ba81b2b5ec"
 metafile = true
 
 [[files]]
