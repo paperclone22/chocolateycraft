@@ -5,7 +5,7 @@
 	"accurateNetherPortals": true,
 	"enableCommands": true,
 	"enableDebugCommands": false,
-	"scaledFallDamage": true,
+	"scaledFallDamage": false,
 	"scaledMotion": true,
 	"scaledReach": true,
 	"scaledAttack": true,

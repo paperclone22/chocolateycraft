@@ -30,7 +30,25 @@
     "minecraft:the_nether": {
       "enabled": false,
       "type": "LINEAR",
-      "linearFogStartMult": 0.25,
+      "linearFogStartMult": 0.997,
+      "linearFogEndMult": 1.0,
+      "expFogMult": 3.0,
+      "exp2FogMult": 1.75,
+      "cylinderFog": false
+    },
+    "minecraft:the_end": {
+      "enabled": false,
+      "type": "LINEAR",
+      "linearFogStartMult": 0.9812,
+      "linearFogEndMult": 1.0,
+      "expFogMult": 3.0,
+      "exp2FogMult": 1.75,
+      "cylinderFog": false
+    },
+    "nullscape:end_island": {
+      "enabled": false,
+      "type": "LINEAR",
+      "linearFogStartMult": 0.9789,
       "linearFogEndMult": 1.0,
       "expFogMult": 3.0,
       "exp2FogMult": 1.75,

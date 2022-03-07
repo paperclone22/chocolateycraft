@@ -874,11 +874,6 @@ hash = "eea30bf3a3f1f9350f871b5b652068b890acaeecca92dd74bae45c2a1b833f0f"
 metafile = true
 
 [[files]]
-file = "mods/all-dimension-height-increase.toml"
-hash = "78e551c5b4b7d25ccfc292a51ece06e4655c96e016bd07a750528997c078ed12"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.toml"
 hash = "da0d6a42bbea6e10b150dca42f855a533b7431ab5018ed6b07048c8891229455"
 metafile = true
@@ -1064,11 +1059,6 @@ hash = "b843df9a8c3d6214a5a9064e24b48cfebe16cd2e28f417d0f66d1b0ea06448dc"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.toml"
-hash = "73d8f9c1ec2ca5941fb5b5aa5846152cf904f8032e36011b39a2d93c629f3706"
-metafile = true
-
-[[files]]
 file = "mods/camera-utils.toml"
 hash = "edff8da0faf0da9d1239c95b463603a382b5917952f83851d98851b4d0176c98"
 metafile = true
@@ -1166,11 +1156,6 @@ metafile = true
 [[files]]
 file = "mods/comforts-fabric.toml"
 hash = "59dab88360e50c675675852124ddf1d8aecafdac446170ecc524c64403c03dfd"
-metafile = true
-
-[[files]]
-file = "mods/compact-ui.toml"
-hash = "15d33121faf34f93aa164f86d892977d56a2e861e5f7ab1db2ae6da211d03ffd"
 metafile = true
 
 [[files]]
@@ -1606,11 +1591,6 @@ metafile = true
 [[files]]
 file = "mods/notes-fabric.toml"
 hash = "eb53f16bd7040203fe0327f955d150919c852b7e88a8cc0a5a2761c4ffdd485c"
-metafile = true
-
-[[files]]
-file = "mods/nullscape-end-reborn.toml"
-hash = "c4d5b9cda43903fd9a247b3d85ef8ab4f02dfc32b24863071dec3e77adbca880"
 metafile = true
 
 [[files]]

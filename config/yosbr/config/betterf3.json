@@ -81,7 +81,7 @@
 			"value_color": 5636095,
 			"enabled": true,
 			"lines": {
-				"dimension": false,
+				"dimension": true,
 				"facing": false,
 				"rotation": true,
 				"light": true,

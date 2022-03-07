@@ -21,7 +21,7 @@ optionsButton = true
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 128
+			lodChunkRenderDistance = 64
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
@@ -66,7 +66,7 @@ optionsButton = true
 			# FOG_DISABLED: Always draw fast fog on the LODs 
 			#
 			# Disabling fog will improve GPU performance.
-			fogDrawMode = "FOG_DISABLED"
+			fogDrawMode = "USE_OPTIFINE_SETTING"
 			# What color should fog use? 
 			#
 			# USE_WORLD_FOG_COLOR: Use the world's fog color. 
@@ -107,7 +107,7 @@ optionsButton = true
 			#
 			# This setting shouldn't affect performance. 
 			#
-			vanillaOverdraw = "BORDER"
+			vanillaOverdraw = "DYNAMIC"
 			# Will prevent some overdraw issues, but may cause nearby fake chunks to render incorrectly 
 			# especially when in/near an ocean. 
 			#

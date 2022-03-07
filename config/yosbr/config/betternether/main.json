@@ -10,6 +10,6 @@
   "improvement": {
     "smaller_armor_offset [default: true]": true,
     "lavafall_particles [default: true]": true,
-    "fog_density[vanilla: 1.0] [default: 0.75]": 0.75
+    "fog_density[vanilla: 1.0] [default: 0.75]": 0.1
   }
 }
