@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "b8f2d4e84622a78484fe04bb0713d2a6819c624a09614a83ff4815cca56d6cc0"
+hash = "c74fa07245cbea474ca235ab3cbbdb283c80b6e06347d0142e0a76b43fe8bb35"
 metafile = true
 
 [[files]]
@@ -1245,13 +1245,8 @@ hash = "69aeed63058057dc3564d7487402fad911901b0927f96039559dac33205d2a9f"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials-fabric.toml"
-hash = "e8fae835b76e91bf514cbad595b88acb583b78b4f62f0a5c733fb87015748037"
-metafile = true
-
-[[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "2d7e22ee4df0e8b032f2f67c230fb7f0e14aa033b32741962d3191478da6fba5"
+hash = "2589477b86c240cfbad7c6a0c64893297ff2c00e0b5cb362cb1609d675ae88bc"
 metafile = true
 
 [[files]]
@@ -1296,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
+hash = "56371e0a7b084daf096af668da39a182ad5f9261aa339138f5a53bbece9be8d0"
 metafile = true
 
 [[files]]
@@ -1411,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "6b930ae71b10d9cb6e27d48f5cd42433641c04fb3a7e13f9f2d44d2e60daed2c"
+hash = "c891e0d66857eeafbf3290fc1852c08f1dcfefd2403181790773b69052a199f8"
 metafile = true
 
 [[files]]
@@ -1620,11 +1615,6 @@ hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
 metafile = true
 
 [[files]]
-file = "mods/pleasant-pigeons.toml"
-hash = "bfa2c0b96f165926db8ed6822b3d4c033aacf1562e4f5693a862d7a7a588e939"
-metafile = true
-
-[[files]]
 file = "mods/pluckablearrows.toml"
 hash = "804ab8ad5f3c7a7f1ee4547b3e164353ba3e6b7aae76360824066183a153ba42"
 metafile = true
@@ -1751,7 +1741,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "6fa3c92fd317adf808021b143d047c5d1ff48cf8f390a5965359efc7113fcbb3"
+hash = "25004bfaed5d36459fe6c6f7486794338e8b632679f5dd02c3624b961bcf9b9f"
 metafile = true
 
 [[files]]

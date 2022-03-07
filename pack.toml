@@ -1,12 +1,12 @@
 name = "Chocolateycraft"
 author = "paperclone22"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d08082a312b40befdb56cb66973107519cbb9aa437f45fb7a33dbb0a092f760b"
+hash = "fe5f65e8f1888eefd67a0c779c2a3e10d97d4bd0e98c78d7cd384d3e3066b226"
 
 [versions]
 fabric = "0.13.3"
