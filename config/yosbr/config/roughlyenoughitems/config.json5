@@ -1,7 +1,10 @@
 {
 	"basics": {
 		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:polished_andesite_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:polished_andesite_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stripped_jungle_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:waxed_cut_copper_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:waxed_weathered_cut_copper_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": false,

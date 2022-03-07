@@ -230,7 +230,7 @@ hash = "87e14c7c0055dff7c4d29225227e380c800c47a644941a22d5dcb7980b74b98a"
 
 [[files]]
 file = "config/yosbr/config/camerautils/camerautils.properties"
-hash = "bb15820ca678aea61a52e1388ee0fd569682f75713e664384a219ac291443f9d"
+hash = "e526161acccdbc53d97a625bad5fd79e672a2d0ad1d260b5b256a4d80a76748b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -294,7 +294,7 @@ hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
 file = "config/yosbr/config/crystal.properties"
-hash = "00ca5bfec6d45c01f2c7046a4f93343e4f6c7cb3c6f31f17e9155a2521b0c0e4"
+hash = "e5bce8fcc2ba818ac9832ba4952c2bcb04584d8925a860f50a2419c413ed441b"
 
 [[files]]
 file = "config/yosbr/config/cullleaves.json"
@@ -406,7 +406,7 @@ hash = "ba24e22b94bafc7228b2f784b5506847ce7325819b453f91eb7b7d9634e21e93"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "87dfe804927e871c0e58fa3dac33d44160358a58e8fcac35ad13a1e9a50790e3"
+hash = "f6b3ecfd6f1653c733836fb61fcbfcea39aa19ea64aa307554dc9633ffca1f88"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -470,11 +470,11 @@ hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
 
 [[files]]
 file = "config/yosbr/config/illuminations.properties"
-hash = "ff7c00dac5696a85878d8d8218ce13f5d34660cd6d2986bec63ae7ec80a6b892"
+hash = "e6ba0059e952b0c885cc7b4d779c75bc386df16f7d5e6fda9b393f0e90c64e45"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "faa7b35a338c0edc0f3a03664f33ec0d5da6f83fde42f0af7d5fa8114586620f"
+hash = "eae8ca4470b22efc04eba5448f3066b1a5fa6eb25eaaf83d2f3d73f131446a08"
 
 [[files]]
 file = "config/yosbr/config/inspecio.json"
@@ -486,11 +486,11 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "16282e258e82734a596e02c6364f74bc8a30a0f374123398a512d7d3b83b2cad"
+hash = "5aaece0b49fd42fd8508f7262dfb782de546b383e8df7d7462fdd9a116b4d46c"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "1dd8f961471cbbebe1de1b52e8590273da6bcf5115942492d2ef9e2ce5762243"
+hash = "8ba41152542d9545194f2af37f9da7602d58d466774d2ef73ea922f8ade4ac1e"
 
 [[files]]
 file = "config/yosbr/config/itemmodelfix.json"
@@ -706,7 +706,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "518794f9f945d3755da83a327ace2c71c6a4cff3a13cdcb232d88102ac3d8941"
+hash = "ef897e9e78488b77dd89ee9c660b72c851a20a2d0116a5ffe556d78a6e75d98b"
 
 [[files]]
 file = "config/yosbr/config/rrp.properties"
@@ -810,7 +810,7 @@ hash = "746fd5f1cab5e69c30014317e80f931ee224bbdb80a968a30a14d43f60f6a9cc"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "f0fe0a151468cff97da4ffe6fcaf7117932a74e2b6bd405d4841d322c78ed82a"
+hash = "792b04df36d4c40bd18edf10a350241f9a9e4fe14eab801b04dc5efa3492aabf"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
@@ -846,7 +846,7 @@ hash = "ea14c8b555546fc4e8bd3933f587f680467018a57e13124b5f889b4068083e04"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "557612cf66c10c94fa4e6549d9c1b323eb8dd2e8ee5c1ba48909e4e082a05906"
+hash = "a7d815ecc1f04d5e5e2f54f02db9d7be39f3bbffac8bdeb7ebceedaf09abe368"
 
 [[files]]
 file = "mods/actually-unbreaking-fabric.toml"
@@ -1928,6 +1928,10 @@ file = "resourcepacks/Beautiful+prot.+4.zip"
 hash = "fdd36ef7a49e8d2eead8fb155651b4bfd63ee53c9634a2b76eae84dc6f8d9254"
 
 [[files]]
+file = "resourcepacks/Boss+Bars++1.18+Update.zip"
+hash = "70b60c2c3a9815c902b5881bd8d5bc3153344a0f40e967ef56967bdc016a9096"
+
+[[files]]
 file = "resourcepacks/Brewing_Stand_3D.zip"
 hash = "a2f8d25198c8c365eeb5af279813b0b9c2846753fceabfd6a983766949043919"
 
@@ -1976,7 +1980,7 @@ file = "resourcepacks/Tissou's+Zombie+Pack+1.18_2.1.zip"
 hash = "3524ea7b60fe3be0aead6d28f6fa7f5877f24bf216db47509d11e69b040faa28"
 
 [[files]]
-file = "resourcepacks/Tooniverse+1.0.3+[64x]-edit.zip"
+file = "resourcepacks/Tooniverse+1.0.3-64x-edit.zip"
 hash = "16181a3b35edc529c81ba0feb71446e97f2b8e2ce444436e97ed117ceb6e2727"
 
 [[files]]
