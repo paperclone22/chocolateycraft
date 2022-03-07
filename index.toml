@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/Adorn.json5"
-hash = "793501579804e19d32fc14020c3e0c41a92d58c94c469c7fa3b934ec1187cab6"
+hash = "fbf66decd5defe9fc96082de84e542adb7b51c3c572239878bc5b325b61757fe"
 
 [[files]]
 file = "config/yosbr/config/BetterControls.json"
@@ -54,7 +54,7 @@ hash = "1e61c8b7d30e77bd587b85b54e0f59caf8e663b93b47436a6764b4428a12d5fe"
 
 [[files]]
 file = "config/yosbr/config/bclib/client.json"
-hash = "ee03e6c654bff5dd2c9e544d68e20ecd409c1b3a4c52a22cb5719d2be233b97c"
+hash = "ab00745f0fc0d02e8ed651a34b3652e46c59fe120c49cf57adf7205adce61af5"
 
 [[files]]
 file = "config/yosbr/config/bclib/generator.json"
@@ -122,7 +122,7 @@ hash = "4413676b649064ea489d72ad56fc440a861061b3cc56b966419f081d8e2698d1"
 
 [[files]]
 file = "config/yosbr/config/betternether/biomes.json"
-hash = "03e7bb98dc0b8c2d40a9dee7c86cd4328e62565e9fb6cf88fc7c8b028f24a6fc"
+hash = "1f7c7987e4c2153011c089bfc4b780bc7c4d941c29780d375d6f73b44bcf4e10"
 
 [[files]]
 file = "config/yosbr/config/betternether/blocks.json"
@@ -226,7 +226,7 @@ hash = "87e14c7c0055dff7c4d29225227e380c800c47a644941a22d5dcb7980b74b98a"
 
 [[files]]
 file = "config/yosbr/config/camerautils/camerautils.properties"
-hash = "e526161acccdbc53d97a625bad5fd79e672a2d0ad1d260b5b256a4d80a76748b"
+hash = "6322b6773d563b17aa7f5d11678d954ef9b2f5b8a574619e1c6f00b0de3ed722"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -290,7 +290,7 @@ hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
 file = "config/yosbr/config/crystal.properties"
-hash = "e5bce8fcc2ba818ac9832ba4952c2bcb04584d8925a860f50a2419c413ed441b"
+hash = "510283a861f844ae3544e3e5635b4dfb88d805a10af148c452d4947c3de57514"
 
 [[files]]
 file = "config/yosbr/config/cullleaves.json"
@@ -298,7 +298,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/yosbr/config/custom-fog.json"
-hash = "6409e7b3b8c3be7840df2dc2d9a00c92d96f8a86bf524c1ced758099888c06b4"
+hash = "a48337705c50d14000d38028ba64e9145843d3b5f1cc4050d088c6f84be228ad"
 
 [[files]]
 file = "config/yosbr/config/despawningeggshatch-fabric.json"
@@ -314,7 +314,7 @@ hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
 
 [[files]]
 file = "config/yosbr/config/diggusmaximus/config.json5"
-hash = "61a020182be599fae29d96b88702eddcb82a078c9867f44e285b40550d4a6d81"
+hash = "dd2774cd820e51d06a30282ea9a4ef1d73c20cf744b10919ddba30bf5a73bf3b"
 
 [[files]]
 file = "config/yosbr/config/diggusmaximus/excavatingshapes.json5"
@@ -373,6 +373,34 @@ file = "config/yosbr/config/enhanced_bes.properties"
 hash = "c22f28d7981bfea382b12c4417443434fc18256646346599d4d75f6856470d02"
 
 [[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blood_moon.json"
+hash = "e77d26a630d4e71ff8a329f60fe35e4878fe77474fcbf5509b19d67f099e7e54"
+
+[[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blue_moon.json"
+hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
+
+[[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-harvest_moon.json"
+hash = "35d8d054d3f03d8225605d7bd75131368cf4cbceff44d4367557b0295b4f7c01"
+
+[[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blood_moon.json"
+hash = "2d3183ea5694756124c488bba3321f943221d90158229c1caa14a506c33b7c81"
+
+[[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blue_moon.json"
+hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
+
+[[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_harvest_moon.json"
+hash = "b6d6a57fa02f83640af7046f624761b2c1257064bfd6462ac7d16eea62d2a121"
+
+[[files]]
+file = "config/yosbr/config/enhancedcelestials/minecraft/overworld/lunar/lunar-settings.json"
+hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "4b5856803b313a8a78a423d4e09a26ab3adb391440f41ed7e9f057cde0bfdc49"
 
@@ -402,7 +430,7 @@ hash = "ba24e22b94bafc7228b2f784b5506847ce7325819b453f91eb7b7d9634e21e93"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "f6b3ecfd6f1653c733836fb61fcbfcea39aa19ea64aa307554dc9633ffca1f88"
+hash = "a38ba1d5e3323af4e663fa662d9975b7d81e114ebffc03aec3ff9579fcd8a1ea"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -426,7 +454,7 @@ hash = "31d8f0341208a512d4ebf195391782a36cd98cc0af0de70d08e19a6d31d41492"
 
 [[files]]
 file = "config/yosbr/config/freecam.json5"
-hash = "385634d189c73d058c4441be2dcbbd321c7b42058b95374b45ede1105c49cb72"
+hash = "8d28af1c845d97ad6afb6731a95e72f51d88ee5c8495ad1b173924d635684da7"
 
 [[files]]
 file = "config/yosbr/config/grindenchantments.json"
@@ -466,11 +494,11 @@ hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
 
 [[files]]
 file = "config/yosbr/config/illuminations.properties"
-hash = "e6ba0059e952b0c885cc7b4d779c75bc386df16f7d5e6fda9b393f0e90c64e45"
+hash = "40f65b7c35bb4dd87f52f6380038d4fb61b3cc0b72d9401d46e939f454441239"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "eae8ca4470b22efc04eba5448f3066b1a5fa6eb25eaaf83d2f3d73f131446a08"
+hash = "233226a0c41cd8b570d67fd1ea93b362acbabf78f1d1dfd87367afc27c56f80b"
 
 [[files]]
 file = "config/yosbr/config/inspecio.json"
@@ -486,7 +514,7 @@ hash = "5aaece0b49fd42fd8508f7262dfb782de546b383e8df7d7462fdd9a116b4d46c"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "8ba41152542d9545194f2af37f9da7602d58d466774d2ef73ea922f8ade4ac1e"
+hash = "8d1b3f624b358842a84b2578bda603eb66925440766e0d522da376e169c5a07f"
 
 [[files]]
 file = "config/yosbr/config/itemmodelfix.json"
@@ -710,7 +738,7 @@ hash = "bb397ade56de8624af3ed9ed172992e779946622303cb63ff94572c6c7db86fc"
 
 [[files]]
 file = "config/yosbr/config/servercore.toml"
-hash = "aef3e7f1bf5f2be0891da441dff9ca7d1eec2f585ba7a7126f7fe80350826556"
+hash = "601e5c2b9c31d6489fec950a84575f3833189191cea49781bd254330214771a0"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc-server.toml"
@@ -774,7 +802,7 @@ hash = "4dc22b2fba8385ad5b062a316c51798d2731a159181c967f19e32951b8635921"
 
 [[files]]
 file = "config/yosbr/config/the-graveyard-config.json5"
-hash = "bf21d612808a7c15f1b86a8f3456464a8b3d77f42dcc8758c70763339bc07406"
+hash = "3c0f5de05e0f49588e984f2e0bb896d5fc83dfedc7dd5cdf92af5f4211664bc9"
 
 [[files]]
 file = "config/yosbr/config/tiefix.json"
@@ -806,7 +834,7 @@ hash = "746fd5f1cab5e69c30014317e80f931ee224bbdb80a968a30a14d43f60f6a9cc"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "792b04df36d4c40bd18edf10a350241f9a9e4fe14eab801b04dc5efa3492aabf"
+hash = "75cdcff8ba2ca565f0b11ac2ab615e12f85a4abd54bd3628d4ecff0a3b4454e5"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
@@ -834,15 +862,15 @@ hash = "6db7622bd5e7c225ae505b140a8ffa9ec40ce1f08ecf8f5f38b7f58304c3e99e"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "7473a8f416f4db8ec474b693ada34484c04e4fc865c6868a0d3d55ee65907450"
+hash = "6d935a38c7b63e8cbf6dae0a4e77ca89b66d4c54376a39a1d7c5941ca1e74d19"
 
 [[files]]
 file = "config/yosbr/options.justenoughkeys.txt"
-hash = "ea14c8b555546fc4e8bd3933f587f680467018a57e13124b5f889b4068083e04"
+hash = "0fb9f5eccdf36364a19bcaaf17e5ff123d4ca2111159c20f4f1a12abe14df7af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a7d815ecc1f04d5e5e2f54f02db9d7be39f3bbffac8bdeb7ebceedaf09abe368"
+hash = "a0d06aadccf4b2020978824103db88b4b4c686366eeb24b8b81f85e98f4cca5f"
 
 [[files]]
 file = "mods/actually-unbreaking-fabric.toml"
@@ -1542,6 +1570,11 @@ metafile = true
 [[files]]
 file = "mods/no-null-processors.toml"
 hash = "35c3b3bed1ba22511a149757103c84480c9cd61574c23821a86d9dc6ced61003"
+metafile = true
+
+[[files]]
+file = "mods/nofog.toml"
+hash = "91052a9f058011e263665b938be9a3a7d757becbebbd979cd495cfabb9bd8e2a"
 metafile = true
 
 [[files]]

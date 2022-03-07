@@ -15,7 +15,7 @@
 for this
 
 ```txt
-"$INST_JAVA" -jar packwiz-installer-bootstrap.jar <https://path/to/pack.toml>
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://paperclone22.github.io/chocolateycraft/pack.toml
 ```
 
 ## Mod List
@@ -25,8 +25,6 @@ for this
 <li><a href="https://www.curseforge.com/projects/508556">Additional Additions | Fabric</a></li>
 <li><a href="https://www.curseforge.com/projects/320215">Adorn</a></li>
 <li><a href="https://www.curseforge.com/projects/403815">AdvancementInfo</a></li>
-<li><a href="https://www.curseforge.com/projects/355583">Advancements Enlarger</a></li>
-<li><a href="https://www.curseforge.com/projects/445910">All Dimension Height Increase</a></li>
 <li><a href="https://www.curseforge.com/projects/548115">Alternate Current</a></li>
 <li><a href="https://www.curseforge.com/projects/552176">Amplified Nether</a></li>
 <li><a href="https://www.curseforge.com/projects/445838">Animal Feeding Trough [Fabric | Forge]</a></li>
@@ -50,7 +48,7 @@ for this
 <li><a href="https://www.curseforge.com/projects/406343">Better Ping Display [Fabric]</a></li>
 <li><a href="https://www.curseforge.com/projects/264738">Better Than Mending</a></li>
 <li><a href="https://www.curseforge.com/projects/435044">Better Third Person</a></li>
-<li><a href="https://modrinth.com/mod/betterchainmail">Better Chainmail (Modrinth)</a></li>
+<li>Better Chainmail</li>
 <li><a href="https://www.curseforge.com/projects/413596">BetterEnd</a></li>
 <li><a href="https://www.curseforge.com/projects/401648">BetterF3</a></li>
 <li><a href="https://www.curseforge.com/projects/311377">BetterNether</a></li>
@@ -58,13 +56,12 @@ for this
 <li><a href="https://www.curseforge.com/projects/420709">Bits And Chisels</a></li>
 <li><a href="https://www.curseforge.com/projects/525220">Bits Of Bark</a></li>
 <li><a href="https://www.curseforge.com/projects/525655">BlockTuner</a></li>
-<li><a href="https://modrinth.com/mod/boatstepup">Boat Step Up (Modrinth)</a></li>
+<li>Boat Step Up</li>
 <li><a href="https://www.curseforge.com/projects/409301">Bobby</a></li>
 <li><a href="https://www.curseforge.com/projects/310205">Borderless Mining</a></li>
 <li><a href="https://www.curseforge.com/projects/421839">Botania (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/486485">Better Recipe Book (BRB)</a></li>
 <li><a href="https://www.curseforge.com/projects/363392">Building Wands</a></li>
-<li><a href="https://www.curseforge.com/projects/533097">Concurrent Chunk Management Engine (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/510234">Camera Utils</a></li>
 <li><a href="https://www.curseforge.com/projects/408481">Fabric Capes</a></li>
 <li><a href="https://www.curseforge.com/projects/349239">Carpet</a></li>
@@ -81,11 +78,9 @@ for this
 <li><a href="https://www.curseforge.com/projects/332523">Clear Skies</a></li>
 <li><a href="https://www.curseforge.com/projects/317121">Cloth API (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/319057">Cloth Config API (Fabric)</a></li>
-<li><a href="https://www.curseforge.com/projects/526606">Collective (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/325092">Colormatic</a></li>
 <li><a href="https://www.curseforge.com/projects/559706">CombustibleEntities</a></li>
 <li><a href="https://www.curseforge.com/projects/433539">Comforts (Fabric)</a></li>
-<li><a href="https://www.curseforge.com/projects/522667">Compact UI</a></li>
 <li><a href="https://www.curseforge.com/projects/381257">CompleteConfig</a></li>
 <li><a href="https://www.curseforge.com/projects/445844">Compressed Mod</a></li>
 <li><a href="https://www.curseforge.com/projects/531351">Continuity</a></li>
@@ -94,10 +89,8 @@ for this
 <li><a href="https://www.curseforge.com/projects/423254">Cull Leaves</a></li>
 <li><a href="https://www.curseforge.com/projects/477078">Custom Entity Models (CEM)</a></li>
 <li><a href="https://www.curseforge.com/projects/398774">Custom Fog</a></li>
-<li><a href="https://www.curseforge.com/projects/365727">Dark Loading Screen</a></li>
-<li><a href="https://modrinth.com/mod/dcch">Don't Clear Chat History (Modrinth)</a></li>
+<li>Don't Clear Chat History</li>
 <li><a href="https://www.curseforge.com/projects/496150">DeathLog</a></li>
-<li><a href="https://www.curseforge.com/projects/541248">Despawning Eggs Hatch (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/506898">Detail Armor Bar [Fabric]</a></li>
 <li><a href="https://www.curseforge.com/projects/341888">Diggus Maximus</a></li>
 <li><a href="https://www.curseforge.com/projects/508933">Distant Horizons: A Level of Detail mod</a></li>
@@ -121,7 +114,6 @@ for this
 <li><a href="https://www.curseforge.com/projects/308769">Fabric Language Kotlin</a></li>
 <li><a href="https://www.curseforge.com/projects/404870">Fabrishot</a></li>
 <li><a href="https://www.curseforge.com/projects/417510">Falling Leaves (Fabric)</a></li>
-<li><a href="https://www.curseforge.com/projects/436038">FastChest</a></li>
 <li><a href="https://www.curseforge.com/projects/501223">FastDecay</a></li>
 <li><a href="https://www.curseforge.com/projects/513840">FastOpenLinksAndFolders</a></li>
 <li><a href="https://www.curseforge.com/projects/560323">Feature NBT Deadlock Be Gone</a></li>
@@ -135,7 +127,6 @@ for this
 <li><a href="https://www.curseforge.com/projects/571503">Guard Villagers (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/559179">Hardened Crops</a></li>
 <li><a href="https://www.curseforge.com/projects/313219">Health Overlay (Fabric)</a></li>
-<!-- <li><a href="https://www.curseforge.com/projects/466750">HealthCare</a></li> -->
 <li><a href="https://www.curseforge.com/projects/567728">Hearty Trinkets</a></li>
 <li><a href="https://www.curseforge.com/projects/429291">Here be no Dragons!</a></li>
 <li><a href="https://www.curseforge.com/projects/396512">Hookshot</a></li>
@@ -143,7 +134,6 @@ for this
 <li><a href="https://www.curseforge.com/projects/292908">Illuminations 🔥</a></li>
 <li><a href="https://www.curseforge.com/projects/483166">Incantationem</a></li>
 <li><a href="https://www.curseforge.com/projects/459496">Indium</a></li>
-<li><a href="https://www.curseforge.com/projects/531783">Infusion Table</a></li>
 <li><a href="https://www.curseforge.com/projects/492180">Inspecio</a></li>
 <li><a href="https://www.curseforge.com/projects/495267">Inventory Profiles Next</a></li>
 <li><a href="https://www.curseforge.com/projects/455508">Iris Shaders</a></li>
@@ -151,7 +141,6 @@ for this
 <li><a href="https://www.curseforge.com/projects/399798">Item Model Fix (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/495059">Just Enough Keys [JEK] [Fabric]</a></li>
 <li><a href="https://www.curseforge.com/projects/547695">KleeSlabs (Fabric Edition)</a></li>
-<li><a href="https://www.curseforge.com/projects/537533">Ksyxis</a></li>
 <li><a href="https://www.curseforge.com/projects/400322">LambdaBetterGrass</a></li>
 <li><a href="https://www.curseforge.com/projects/393442">LambDynamicLights</a></li>
 <li><a href="https://www.curseforge.com/projects/527334">Language Reload</a></li>
@@ -172,11 +161,9 @@ for this
 <li><a href="https://www.curseforge.com/projects/494585">Nether Chest (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/452768">No Fade</a></li>
 <li><a href="https://www.curseforge.com/projects/546841">No Null Processors</a></li>
-<li><a href="https://www.curseforge.com/projects/530816">No Telemetry</a></li>
-<!-- <li><a href="https://www.curseforge.com/projects/309664">NoCubes</a></li> -->
+<li><a href="https://www.curseforge.com/projects/296468">NoFog</a></li>
 <li><a href="https://www.curseforge.com/projects/353890">Not Enough Crashes (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/388252">Notes Fabric</a></li>
-<li><a href="https://www.curseforge.com/projects/570354">Nullscape ~ End Reborn</a></li>
 <li><a href="https://www.curseforge.com/projects/482731">Nyf's Quivers</a></li>
 <li><a href="https://www.curseforge.com/projects/550544">⚒️ On A Stick [FABRIC]</a></li>
 <li><a href="https://www.curseforge.com/projects/401833">Origins: Classes</a></li>
@@ -189,10 +176,8 @@ for this
 <li><a href="https://www.curseforge.com/projects/319596">Pehkui</a></li>
 <li><a href="https://www.curseforge.com/projects/469006">Perfect Accuracy</a></li>
 <li><a href="https://www.curseforge.com/projects/441787">Pipe</a></li>
-<li><a href="https://www.curseforge.com/projects/580843">Pleasant Pigeons</a></li>
 <li><a href="https://www.curseforge.com/projects/568424">PluckableArrows</a></li>
 <li><a href="https://www.curseforge.com/projects/397434">Polymorph (Fabric)</a></li>
-<li><a href="https://www.curseforge.com/projects/334259">Presence Footsteps</a></li>
 <li><a href="https://www.curseforge.com/projects/563977">Puzzle</a></li>
 <li><a href="https://www.curseforge.com/projects/442509">Quartz Elevator</a></li>
 <li><a href="https://www.curseforge.com/projects/520169">Reasonable Sorting</a></li>
@@ -242,8 +227,7 @@ for this
 <li><a href="https://www.curseforge.com/projects/421649">YUNG's API (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/525586">YUNG's Better Dungeons (Fabric)</a></li>
 <li><a href="https://www.curseforge.com/projects/480684">YUNG's Better Strongholds (Fabric)</a></li>
-<li><a href="https://modrinth.com/mod/zombify">Zombify (Modrinth)</a></li>
-<li><a href="https://www.curseforge.com/projects/574741">Zoomify</a></li>
+<li>Zombify</li>
 </ul>
 
 ## Controls In Config

@@ -64,6 +64,9 @@ modifiers.carrier.key:
 modifiers.Send Coordinates:
 modifiers.key.crawl:
 modifiers.key.deathlog.death_screen:
+modifiers.key.diggusmaximus.keybind.excavate:
+modifiers.key.diggusmaximus.keybind.shapeexcavate:
+modifiers.key.diggusmaximus.keybind.cycleshape:
 modifiers.key.durabilityviewer.showhide:
 modifiers.key.entityculling.toggle:
 modifiers.key.origins.ternary_active:

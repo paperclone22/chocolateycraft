@@ -13,7 +13,7 @@
 	},
 	// Mod compatibility toggles (enabled: true, disabled: false)
 	"compat": {
-		"byg": true,
+		"byg": false,
 		"traverse": true,
 		"terrestria": true,
 		"cinderscapes": true,
