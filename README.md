@@ -1,8 +1,16 @@
 # ChocolateyCraft
 
+## TODO List
+
+- test eden ring
+- add Origins datapacks
+- test in a server environment
+
 ## Pack.toml link
 
-[pack.toml](pack.toml)
+[github.io](https://paperclone22.github.io/chocolateycraft/)
+
+[pack.toml](https://paperclone22.github.io/chocolateycraft/pack.toml)
 
 for this
 

@@ -14,7 +14,7 @@ hash = "01032bad221d7beaac0a3854d240034693da525ae27fc17a79b783e579fcc57f"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "83862a81e1f12f96b21260d8d9d59655dcf201874ef7710618331861da5b8e02"
+hash = "161014aafd4f60652653cfc62b3b2f0503220976662b4ab63753abab974d02fb"
 
 [[files]]
 file = "config/yosbr/config/actuallyunbreaking.json"
@@ -54,11 +54,11 @@ hash = "cf04e6f7f19d7f056bef37f2d9aa1b2c17bda28badb33139fc7b0f0886d05be5"
 
 [[files]]
 file = "config/yosbr/config/bclib/biomes.json"
-hash = "d7588fdd91c1ace694af63d13c5382e365a7bc8bd3250b2c151b55f1781aa955"
+hash = "1e61c8b7d30e77bd587b85b54e0f59caf8e663b93b47436a6764b4428a12d5fe"
 
 [[files]]
 file = "config/yosbr/config/bclib/client.json"
-hash = "104a4b39ecf6617693e2ef3f958e87857d24c58563ba6c019d9c14adc851027f"
+hash = "ee03e6c654bff5dd2c9e544d68e20ecd409c1b3a4c52a22cb5719d2be233b97c"
 
 [[files]]
 file = "config/yosbr/config/bclib/generator.json"
@@ -74,7 +74,7 @@ hash = "969381f8c91a3577ab8173f08d36edecabc8c8b46256b4ca8eb22ed3ad7a73c6"
 
 [[files]]
 file = "config/yosbr/config/bclib/server.json"
-hash = "dd0b11f0c1b03f5624524a5b2b309404c020be1e4bee961bd85a20bcdf03d4d3"
+hash = "b581e24da5f696cfb092f3cdd2dadc16d02c9bb1cf1bc9cc87fd7c3ccdffbd69"
 
 [[files]]
 file = "config/yosbr/config/beenfo.json"
@@ -94,7 +94,7 @@ hash = "42a792de0be657f9278157c679261b8114f4ed2efd5627ead3f3057384dde784"
 
 [[files]]
 file = "config/yosbr/config/betterend/client.json"
-hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
+hash = "a14d9c735392d3cb0dcbbc68b2c9c93e028fceb5e3a3ad3ba1a2c6dc43314e87"
 
 [[files]]
 file = "config/yosbr/config/betterend/enchantments.json"
@@ -106,7 +106,7 @@ hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
 
 [[files]]
 file = "config/yosbr/config/betterend/generator.json"
-hash = "5ce240c9fe50fb002ef8ddd4b16187a4bb99dc80e1e7a83466fb1c5fb0acf297"
+hash = "c81d40ec019d2cff84218601f79c627bf7099d9b6e720783db0353c90b59465f"
 
 [[files]]
 file = "config/yosbr/config/betterend/items.json"
@@ -122,7 +122,7 @@ hash = "15aebb7a5b0200be0a6f6fcdf9e8c67498fa60ba811e236d851664299fb8b323"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "790b6cad56b13f4324d03d6a73dd4810751cf6d9ba6c12243a573821d826ad77"
+hash = "4413676b649064ea489d72ad56fc440a861061b3cc56b966419f081d8e2698d1"
 
 [[files]]
 file = "config/yosbr/config/betternether/biomes.json"
@@ -142,7 +142,7 @@ hash = "fd1f13298e2c04efbcb42f088f59bfc2498d807dac1b52d290978941652790b7"
 
 [[files]]
 file = "config/yosbr/config/betternether/main.json"
-hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+hash = "5e9a1f20a8010d90bf30278a0611eed8825be288e29f8a8eebe5eb3b62b6967b"
 
 [[files]]
 file = "config/yosbr/config/betternether/mobs.json"
@@ -202,7 +202,7 @@ hash = "5dcd00f6ff15eed3a8542507b5fa8f6ebe25a9f34fa9a1a38230fd82308c1da4"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
-hash = "b47033512d6b91c973f4c152a83b667e9fa9ea7277fe32d36a8712bd78f4b765"
+hash = "4dd020307b6ad4bb4dc3bbd6c3a7d50020722da4119965da4ce44897d9d52f93"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -230,7 +230,7 @@ hash = "87e14c7c0055dff7c4d29225227e380c800c47a644941a22d5dcb7980b74b98a"
 
 [[files]]
 file = "config/yosbr/config/camerautils/camerautils.properties"
-hash = "df48fc22ec7160580f13016d672bfbe744f51a05498c4c0e853d7a0c11ea8ad8"
+hash = "bb15820ca678aea61a52e1388ee0fd569682f75713e664384a219ac291443f9d"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -254,7 +254,7 @@ hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
 file = "config/yosbr/config/chunky.json"
-hash = "314e5382c4f0ac6fb9fea3d5625ca136433fd996572ae78ba160896e480dbcc6"
+hash = "c84ae84997fc940ae231e8e019f7a15c5bd786f80bde75236dc158d97e0cd50d"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -294,7 +294,7 @@ hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
 file = "config/yosbr/config/crystal.properties"
-hash = "3d7f28fd4895f37445f3459accec68d1376a362cf9d8a4f39c7badeb74a43aa4"
+hash = "00ca5bfec6d45c01f2c7046a4f93343e4f6c7cb3c6f31f17e9155a2521b0c0e4"
 
 [[files]]
 file = "config/yosbr/config/cullleaves.json"
@@ -302,7 +302,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/yosbr/config/custom-fog.json"
-hash = "f54bc7c068abdc90d8f303810d952698336d19ce7af7d4fdf773405a3e30fe43"
+hash = "6409e7b3b8c3be7840df2dc2d9a00c92d96f8a86bf524c1ced758099888c06b4"
 
 [[files]]
 file = "config/yosbr/config/despawningeggshatch-fabric.json"
@@ -406,7 +406,7 @@ hash = "ba24e22b94bafc7228b2f784b5506847ce7325819b453f91eb7b7d9634e21e93"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "c84a86c01722ee012f2dcabc98c7df3f92f1310a507e85be2855eaa6d66ac59c"
+hash = "87dfe804927e871c0e58fa3dac33d44160358a58e8fcac35ad13a1e9a50790e3"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -418,7 +418,7 @@ hash = "84af54a50bb8fdf50245eb38c24534cf717d492fc7d9ea4e8dfc0c305886a60d"
 
 [[files]]
 file = "config/yosbr/config/fast-chest.properties"
-hash = "875b5fdc37bb3013734cd0172f8f10ac879dd62a4ebfa5662ebd550411d2fc75"
+hash = "57be8342a198dec252cd7c9fe5cfe7c7cad8c8e736d56da9f14d120b632070c8"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -470,11 +470,11 @@ hash = "a1682e8de53c1a4a2824110400cfa3d83496c023355ca2c853e6cf6fdc9b1b3b"
 
 [[files]]
 file = "config/yosbr/config/illuminations.properties"
-hash = "5e92cd8c2179e5917f39ef9c10ce009e603f037a22ffea4886b0fac9a2f623ba"
+hash = "ff7c00dac5696a85878d8d8218ce13f5d34660cd6d2986bec63ae7ec80a6b892"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "f6182e5e88acc76e7591057b5ef6a2ec4cdecb323f9ebdcde1f812403f6223d5"
+hash = "faa7b35a338c0edc0f3a03664f33ec0d5da6f83fde42f0af7d5fa8114586620f"
 
 [[files]]
 file = "config/yosbr/config/inspecio.json"
@@ -490,7 +490,7 @@ hash = "16282e258e82734a596e02c6364f74bc8a30a0f374123398a512d7d3b83b2cad"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "1aa88763ebcaca20c20e06a9de25bcca9109cd8d8e559505c13499aeb2e6f0b4"
+hash = "1dd8f961471cbbebe1de1b52e8590273da6bcf5115942492d2ef9e2ce5762243"
 
 [[files]]
 file = "config/yosbr/config/itemmodelfix.json"
@@ -506,7 +506,7 @@ hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "e73e0bbc20b5420d35068563ae9339788fcd6620ec5c11649d251ddafb74fa4c"
+hash = "cd3f960d4ad175d740a46f03f68fb5a34d09983162ef273f9552e16f8811d5dc"
 
 [[files]]
 file = "config/yosbr/config/libgui.json5"
@@ -530,7 +530,7 @@ hash = "78c98469de34efdd8320ad2c7163d18c4ef22a5fad3ef27585df516b9839a167"
 
 [[files]]
 file = "config/yosbr/config/mostructures-config-v2.json5"
-hash = "4c6d58efc9c70f0a39131c986c028f94689018d10458a746fd12d52f6ce51558"
+hash = "82ae8e7cec8b08f0ab91984daaa9d58290315f77c7a77a7f9362bbbd189cfeb7"
 
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
@@ -638,7 +638,7 @@ hash = "532c44d046394edabde273419d32cdcdb5cd0e46629dda07801c0be53c28b63b"
 
 [[files]]
 file = "config/yosbr/config/pehkui/config.json"
-hash = "e370cb68f235741c2d43e4b5bbbd4f6b5dc6d74a7193fdaf16817921c9fb6c69"
+hash = "bfa7f3f7efc301dd525eab9a0f8f47df8f803b9788e6c066452effceb282ee9d"
 
 [[files]]
 file = "config/yosbr/config/pipe.json5"
@@ -706,7 +706,7 @@ hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "237aba30fd39d289a48ba6a7aab1ece11d4eb60fbf929979ff360a1d5875b02e"
+hash = "518794f9f945d3755da83a327ace2c71c6a4cff3a13cdcb232d88102ac3d8941"
 
 [[files]]
 file = "config/yosbr/config/rrp.properties"
@@ -714,7 +714,7 @@ hash = "bb397ade56de8624af3ed9ed172992e779946622303cb63ff94572c6c7db86fc"
 
 [[files]]
 file = "config/yosbr/config/servercore.toml"
-hash = "f8e67ff22fc8f1f53d5a507cf7c84e8ec36000d8f71fea5e439836bb965fa7a9"
+hash = "aef3e7f1bf5f2be0891da441dff9ca7d1eec2f585ba7a7126f7fe80350826556"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc-server.toml"
@@ -762,7 +762,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "312f2e2b9a094718c1c0464957a3f8ca64c68ae7fb9652c3887fbc44cde5bb1d"
+hash = "94ed7eefa1032243eb1aac329f80619b8bdef4f6691e3bbc2a4ebd670954062c"
 
 [[files]]
 file = "config/yosbr/config/spyglass-improvements/settings.json"
@@ -774,7 +774,7 @@ hash = "1af09ec5636236f55cf8c4c6f841ee7ea1b1ce8835883b2454eb58d317b42352"
 
 [[files]]
 file = "config/yosbr/config/stepup.json"
-hash = "c5a3eaa989f2b374ae76243ce959c2582c61edc00ffd2240efa0354376394f73"
+hash = "4dc22b2fba8385ad5b062a316c51798d2731a159181c967f19e32951b8635921"
 
 [[files]]
 file = "config/yosbr/config/the-graveyard-config.json5"
@@ -810,7 +810,7 @@ hash = "746fd5f1cab5e69c30014317e80f931ee224bbdb80a968a30a14d43f60f6a9cc"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "792b04df36d4c40bd18edf10a350241f9a9e4fe14eab801b04dc5efa3492aabf"
+hash = "f0fe0a151468cff97da4ffe6fcaf7117932a74e2b6bd405d4841d322c78ed82a"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
@@ -838,15 +838,15 @@ hash = "6db7622bd5e7c225ae505b140a8ffa9ec40ce1f08ecf8f5f38b7f58304c3e99e"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "a26e056ab79d2abbb6a568471422d473aa8014c4f8113e152d5881eb2029bbe7"
+hash = "7473a8f416f4db8ec474b693ada34484c04e4fc865c6868a0d3d55ee65907450"
 
 [[files]]
 file = "config/yosbr/options.justenoughkeys.txt"
-hash = "f0c109e6b0c1795b8c8bed4a1f49182a4071289bcb6e0cfa361076abe5c3f418"
+hash = "ea14c8b555546fc4e8bd3933f587f680467018a57e13124b5f889b4068083e04"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "08df16a41ad54ef939c7c186551cb6b5a0fee7f5b93c0ab6df596a04d8bc9c66"
+hash = "557612cf66c10c94fa4e6549d9c1b323eb8dd2e8ee5c1ba48909e4e082a05906"
 
 [[files]]
 file = "mods/actually-unbreaking-fabric.toml"
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.toml"
-hash = "80f8f116bd2a4111a1a916dd0d5948d716618ee8ceaf555dcb245a37bd7d5cdd"
+hash = "e5b324b97b6ab94193977e71980f5028fb42f23256dd8d62747835283b6b6af4"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.toml"
-hash = "e527987ce22b0db0b460a67fe983a170d22d76ccb55619694a5d875bf32dd4f0"
+hash = "1916fed53525c1f6276d0fb131305a5b9c00a9c5ad5026eb3de7e454b7654415"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.toml"
-hash = "88f28693bdb13fa2a7bdaf71a9f5224dfe1d44dd7d9303beef3c3aa39e1bf815"
+hash = "41a490dc1381077e87f03ede4ffa09427a31d7cd65b1afcbcb666df2b27d3253"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "9b74fe9c850f5f1b1ca63c6ec33a8386640f93fed2268103fb31dca561506754"
+hash = "a9b361789fc8693e171d1c33ec07785995f610436b9bf70c21cd5fb334306b2b"
 metafile = true
 
 [[files]]
@@ -1275,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "2589477b86c240cfbad7c6a0c64893297ff2c00e0b5cb362cb1609d675ae88bc"
+hash = "2d7e22ee4df0e8b032f2f67c230fb7f0e14aa033b32741962d3191478da6fba5"
 metafile = true
 
 [[files]]
@@ -1450,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "6cacdd97a22e9c225dd7a84678400ea37fe28f0ea1bd0070407e5d9d0c0837b0"
+hash = "8383c3bcc4563a51175eb8a529d989be4546c92dc86319b287e9d4774fbb39de"
 metafile = true
 
 [[files]]
@@ -1680,7 +1680,7 @@ metafile = true
 
 [[files]]
 file = "mods/reasonable-sorting.toml"
-hash = "07dbb4c4e67e6bc3bedd698ca8ce82a0f8cd7edaac4e2d6b90346fcdb2d7826d"
+hash = "6a0c5fddeb92cb9d8b20a7c7f3e901fdfa061073c3debe6ee0d0ee501aaf3e0c"
 metafile = true
 
 [[files]]
@@ -1977,7 +1977,7 @@ hash = "3524ea7b60fe3be0aead6d28f6fa7f5877f24bf216db47509d11e69b040faa28"
 
 [[files]]
 file = "resourcepacks/Tooniverse+1.0.3+[64x]-edit.zip"
-hash = "c784de781402f0eac5a2e222acb0adf7f53135fa934eafe1bef4539b2bbb529b"
+hash = "16181a3b35edc529c81ba0feb71446e97f2b8e2ce444436e97ed117ceb6e2727"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r787938-compat.zip"
