@@ -1648,6 +1648,11 @@ hash = "74997dc610ef84623892a9763484e8aa96b09204ade1ba879d0a39c64c90f4f0"
 metafile = true
 
 [[files]]
+file = "mods/pleasant-pigeons.toml"
+hash = "046010d1b9cd379d8d6b5555f71a59602ac91a3aff48da5e20c3e67201d783af"
+metafile = true
+
+[[files]]
 file = "mods/pluckablearrows.toml"
 hash = "804ab8ad5f3c7a7f1ee4547b3e164353ba3e6b7aae76360824066183a153ba42"
 metafile = true
