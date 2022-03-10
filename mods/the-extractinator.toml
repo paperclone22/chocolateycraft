@@ -1,0 +1,13 @@
+name = "The Extractinator (Fabric)"
+filename = "TheExtractinator-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/83/TheExtractinator-1.0.5.jar"
+hash-format = "sha1"
+hash = "3d9d56ea51474fc97cc244e608f4f1c1871b6d7f"
+
+[update]
+[update.curseforge]
+file-id = 3668083
+project-id = 567114

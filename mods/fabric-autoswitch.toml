@@ -1,0 +1,13 @@
+name = "AutoSwitch [Fabric]"
+filename = "autoswitch-3.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3645/449/autoswitch-3.5.2.jar"
+hash-format = "sha1"
+hash = "3cba57557ca237bef7e158a8e6cf5792f1c6ed51"
+
+[update]
+[update.curseforge]
+file-id = 3645449
+project-id = 347405

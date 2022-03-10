@@ -45,6 +45,7 @@ key_modifiers_key.dynamicfps.toggle_forced:0,0,0
 key_modifiers_key.dynamicfps.toggle_disabled:0,0,0
 key_modifiers_key.fabrishot.screenshot:0,0,0
 key_modifiers_key.antighost.reveal:0,0,0
+key_modifiers_key.autoswitch.toggle:0,0,0
 key_modifiers_key.bewitchment.transformation_ability:0,0,0
 key_modifiers_key.botania_corporea_request:0,0,0
 key_modifiers_key.camerautils.zoom:0,0,0
@@ -62,6 +63,7 @@ key_modifiers_key.camerautils.zoom_settings:0,0,0
 key_modifiers_key.camerautils.zoom_animation_settings:0,0,0
 key_modifiers_carrier.key:0,0,0
 key_modifiers_Send Coordinates:0,0,0
+key_modifiers_key.conjuring.toggle_tool_mode:0,0,0
 key_modifiers_key.crawl:0,0,0
 key_modifiers_key.deathlog.death_screen:0,0,0
 key_modifiers_key.diggusmaximus.keybind.excavate:0,0,0

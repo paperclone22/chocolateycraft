@@ -1,0 +1,13 @@
+name = "Charcoal+ [Fabric]"
+filename = "charcoal-plus-1.18.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/49/charcoal-plus-1.18.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "37d678abc08844d8ee20f352643195e159e4d873"
+
+[update]
+[update.curseforge]
+file-id = 3596049
+project-id = 563525

@@ -1,103 +1,90 @@
 {
   // Welcome to The Graveyard Config!
-  //
-  // Structures:
-  // Configure separation (Minimum distance between two structures of this type in chunks. Must be less than spacing).
-  // Configure spacing (Average distance between two structure placement attempts of this type in chunks).
-  // Configure whitelist: use "#biomeCategory" for biome categories and "minecraft:biome" for biomes (mod identifier + ":" + biome name).
-  // Configure blacklist: use "#biomeCategory" for biome categories and "minecraft:biome" for biomes (mod identifier + ":" + biome name).
-  // Configure mod whitelist: use "#modid" to whitelist the biomes of the specified mod for structures to spawn in (examples: #minecraft, #graveyard, #graveyard_biomes, #terralith, #byg, #bop).
-  // Valid vanilla biome categories are: #taiga, #extreme_hills, #jungle, #mesa, #plains, #savanna, #icy, #beach, #forest, #desert, #swamp, #mushroom, #underground, #mountain.
-  // A full list of all the biomes can be found here https:minecraft.fandom.com/wiki/Biome#Biome_IDs.
-  //
-  // Mobs:
-  // Configure spawning weight and group size of the spawn.
-  // Configure if mobs burn in sunlight and/or if mobs are affected by the wither effect.
-  // Configure whitelist: use "#biomeCategory" for biome categories and "minecraft:biome" for biomes (mod identifier + ":" + biome name).
-  // Configure blacklist: use "#biomeCategory" for biome categories and "minecraft:biome" for biomes (mod identifier + ":" + biome name).
-  // Configure mod whitelist: use "#modid" to whitelist the biomes of the specified mod for structures to spawn in (examples: #minecraft, #graveyard, #graveyard_biomes, #terralith, #byg, #bop).
-  //
-  // Additional:
-  // Configure graveyard fog particles rising from moss and set the chance of spawning them (higher numbers = lower chance of spawning).
-  // Configure if hordes of graveyard mobs can spawn and set their size and frequency.
-  // Configure if urns have a double chest inventory.
+  // //
+  // // Structures:
+  // // Disable structures to spawn, change their chance of spawning, change their separation and also change their salt.
+  // //
+  // // Mob Spawning:
+  // // Disable, which and if graveyard mobs spawn in the world (this does not affect the spawning in structures/of spawners), and set their spawning weight and group size.
+  // // Disable, if hordes can spawn in the world and set their spawning chance and size.
+  // //
+  // // Biome whitelist and blacklist:
+  // // Set in which biomes or in which biome categories the graveyard mobs and structures can spawn.
+  // // Valid vanilla biome categories are: taiga, extreme_hills, jungle, mesa, plains, savanna, icy, beach, forest, desert, swamp, mushroom, underground, mountain, nether.
+  // // A full list of all the biomes can be found here https://minecraft.fandom.com/wiki/Biome#Biome_IDs.
+  // // Modded Biomes: You can find the biome name for modded biomes in game by pressing F3.
+  // // So for example to allow a structure to only spawn in one specific biome, whitelist the biome category and blacklist all biomes of that category except the chosen one.
+  // //
+  // // Graveyard Fog:
+  // // Turn the graveyard fog particles off and set the chance of spawning them (higher numbers = lower chance of spawning).
+  // // Graveyard fog particles spawn in graveyards and add an atmospheric and spooky element while exploring.
+  // //
   "structureConfigEntries": {
     "mushroom_grave": {
       "enabled": true,
       "separation": 18,
       "spacing": 24,
-      "salt": 379123039,
-      "canSpawnGraveyardMobs": false
+      "salt": 379123039
     },
     "small_grave": {
       "enabled": true,
       "separation": 8,
       "spacing": 12,
-      "salt": 661903018,
-      "canSpawnGraveyardMobs": false
+      "salt": 661903018
     },
     "haunted_house": {
       "enabled": true,
       "separation": 20,
       "spacing": 25,
-      "salt": 451235912,
-      "canSpawnGraveyardMobs": false
+      "salt": 451235912
     },
     "small_graveyard": {
       "enabled": true,
       "separation": 18,
       "spacing": 20,
-      "salt": 240451934,
-      "canSpawnGraveyardMobs": false
+      "salt": 240451934
     },
     "small_desert_grave": {
       "enabled": true,
       "separation": 16,
       "spacing": 20,
-      "salt": 681236914,
-      "canSpawnGraveyardMobs": false
+      "salt": 681236914
     },
     "memorial_tree": {
       "enabled": true,
       "separation": 12,
       "spacing": 14,
-      "salt": 529239621,
-      "canSpawnGraveyardMobs": false
+      "salt": 529239621
     },
     "medium_graveyard": {
       "enabled": true,
       "separation": 16,
       "spacing": 18,
-      "salt": 1690192399,
-      "canSpawnGraveyardMobs": false
+      "salt": 1690192399
     },
     "small_desert_graveyard": {
       "enabled": true,
       "separation": 28,
       "spacing": 32,
-      "salt": 598017285,
-      "canSpawnGraveyardMobs": false
+      "salt": 598017285
     },
     "large_graveyard": {
       "enabled": true,
       "separation": 10,
       "spacing": 12,
-      "salt": 304812394,
-      "canSpawnGraveyardMobs": false
+      "salt": 304812394
     },
     "small_savanna_grave": {
       "enabled": true,
       "separation": 8,
       "spacing": 12,
-      "salt": 709787761,
-      "canSpawnGraveyardMobs": false
+      "salt": 709787761
     },
     "small_mountain_grave": {
       "enabled": true,
       "separation": 8,
       "spacing": 12,
-      "salt": 725689810,
-      "canSpawnGraveyardMobs": false
+      "salt": 725689810
     }
   },
   "particleConfigEntries": {
@@ -111,49 +98,37 @@
       "enabled": true,
       "weight": 0,
       "minGroup": 2,
-      "maxGroup": 3,
-      "canBurnInSunlight": false,
-      "canBeWithered": false
+      "maxGroup": 3
     },
     "revenant": {
       "enabled": true,
       "weight": 25,
       "minGroup": 5,
-      "maxGroup": 8,
-      "canBurnInSunlight": false,
-      "canBeWithered": false
+      "maxGroup": 8
     },
     "skeleton_creeper": {
       "enabled": true,
       "weight": 25,
       "minGroup": 1,
-      "maxGroup": 4,
-      "canBurnInSunlight": false,
-      "canBeWithered": false
+      "maxGroup": 4
     },
     "ghoul": {
       "enabled": true,
       "weight": 25,
       "minGroup": 2,
-      "maxGroup": 5,
-      "canBurnInSunlight": false,
-      "canBeWithered": false
+      "maxGroup": 5
     },
     "reaper": {
       "enabled": true,
       "weight": 0,
       "minGroup": 2,
-      "maxGroup": 3,
-      "canBurnInSunlight": false,
-      "canBeWithered": false
+      "maxGroup": 3
     },
     "nightmare": {
       "enabled": true,
       "weight": 10,
       "minGroup": 1,
-      "maxGroup": 1,
-      "canBurnInSunlight": false,
-      "canBeWithered": false
+      "maxGroup": 1
     }
   },
   "hordeConfigEntries": {
@@ -162,8 +137,5 @@
       "size": 40,
       "ticksUntilNextSpawn": 24000
     }
-  },
-  "booleanEntries": {
-    "urnHasDoubleInventory": true
   }
 }

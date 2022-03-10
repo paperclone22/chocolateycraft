@@ -1,9 +1,9 @@
 {
-  "Sprint.KeyToggle.Key": "key.keyboard.unknown",
+  "Sprint.KeyToggle.Key": "key.keyboard.f13",
   "Sprint.Mode": "TAP_TO_START",
   "Sprint.DoubleTapForward": true,
   "Sprint.ResumeAfterHittingObstacle": true,
-  "Sneak.KeyToggle.Key": "key.keyboard.unknown",
+  "Sneak.KeyToggle.Key": "key.keyboard.f14",
   "Sneak.SmoothCamera": true,
   "Flight.KeyToggle.Creative.Key": "key.keyboard.unknown",
   "Flight.DoubleTapJump": true,

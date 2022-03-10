@@ -35,15 +35,6 @@
       "expFogMult": 3.0,
       "exp2FogMult": 1.75,
       "cylinderFog": false
-    },
-    "minecraft:the_end": {
-      "enabled": false,
-      "type": "NONE",
-      "linearFogStartMult": 0.9812,
-      "linearFogEndMult": 1.0,
-      "expFogMult": 3.0,
-      "exp2FogMult": 1.75,
-      "cylinderFog": false
     }
   },
   "videoOptionsButton": true,

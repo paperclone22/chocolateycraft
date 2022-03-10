@@ -21,7 +21,7 @@ optionsButton = true
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 64
+			lodChunkRenderDistance = 128
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
@@ -107,7 +107,7 @@ optionsButton = true
 			#
 			# This setting shouldn't affect performance. 
 			#
-			vanillaOverdraw = "DYNAMIC"
+			vanillaOverdraw = "BORDER"
 			# Will prevent some overdraw issues, but may cause nearby fake chunks to render incorrectly 
 			# especially when in/near an ocean. 
 			#

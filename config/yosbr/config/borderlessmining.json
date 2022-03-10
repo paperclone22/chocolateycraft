@@ -3,11 +3,11 @@
   "addToVanillaVideoSettings": true,
   "enableMacOS": false,
   "customWindowDimensions": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
-    "width": 0,
-    "height": 0,
+    "width": 1920,
+    "height": 1040,
     "useMonitorCoordinates": true
   },
   "forceWindowMonitor": -1
