@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","Fabric Mods","file/VanillaTweaks_r787938-compat.zip","file/faithless.zip","file/Beautiful+prot.+4.zip","file/Tooniverse+1.0.3-64x-edit.zip","file/giant-villager-hat.zip","file/Boss+Bars++1.18+Update.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/Improved Fences V1.2.zip","file/Improved Fences - All Planks Add-On V1.2.zip","file/MinimalArmor1.18.zip","file/MultiClock-v5-r0.zip","file/Tissou\u0027s+Zombie+Pack+1.18_2.1.zip","file/earth-golems.zip"]
-incompatibleResourcePacks:["file/Beautiful+prot.+4.zip","file/giant-villager-hat.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/MultiClock-v5-r0.zip","file/earth-golems.zip"]
+resourcePacks:["vanilla","Fabric Mods","file/VanillaTweaks_r787938-compat.zip","file/faithless.zip","file/Beautiful-prot-4-fixed.zip","file/Tooniverse+1.0.3-64x-edit.zip","file/giant-villager-hat.zip","file/Boss+Bars++1.18+Update.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/Improved Fences - All Planks Add-On V1.2.zip","file/Improved Fences V1.2.zip","file/MinimalArmor1.18.zip","file/MultiClock-v5-r0.zip","file/Tissou\u0027s+Zombie+Pack+1.18_2.1.zip","file/earth-golems.zip","file/Dramatic-Skies-FSB-0.5.0.zip"]
+incompatibleResourcePacks:["file/Beautiful-prot-4-fixed.zip","file/giant-villager-hat.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/MultiClock-v5-r0.zip","file/earth-golems.zip","file/Dramatic-Skies-FSB-0.5.0.zip"]
 lastServer:localhost
 lang:en_us
 soundDevice:
@@ -140,12 +140,12 @@ key_key.camerautils.zoom_animation_settings:key.keyboard.unknown
 key_carrier.key:key.keyboard.unknown
 key_Send Coordinates:key.keyboard.comma
 key_key.conjuring.toggle_tool_mode:key.keyboard.left.alt
-key_key.crawl:key.keyboard.unknown
+key_key.crawl:key.keyboard.c
 key_key.deathlog.death_screen:key.keyboard.end
 key_key.durabilityviewer.showhide:key.keyboard.period
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.origins.ternary_active:key.keyboard.f2
-key_key.origins.quaternary_active:key.keyboard.unknown
+key_key.origins.quaternary_active:key.mouse.middle
 key_key.origins.quinary_active:key.keyboard.unknown
 key_key.origins.senary_active:key.keyboard.unknown
 key_key.origins.septenary_active:key.keyboard.unknown

@@ -1,0 +1,13 @@
+name = "End Origins"
+filename = "end_origins.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3659/796/end_origins.jar"
+hash-format = "sha1"
+hash = "8363b0b7dd9293d454d49225768363c6fc032c22"
+
+[update]
+[update.curseforge]
+file-id = 3659796
+project-id = 570150

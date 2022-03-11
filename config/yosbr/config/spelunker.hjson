@@ -1,0 +1,184 @@
+{
+	// Checks serverside for blocks to be highlighted and sends them to the client
+	// recommended if the server has an anti-xray mod
+	// default: true
+	server-validating: true
+	// How many blocks the effect should range
+	// a higher value than 32 is not recommended
+	// default: 16
+	// Must be greater or equal to 1
+	effect-radius: 16
+	// default: [ BlockEntry {
+	// highlightColor: #ffd1bd,
+	// blockIds: [ minecraft:iron_ore, minecraft:deepslate_iron_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #eb5e34,
+	// blockIds: [ minecraft:copper_ore, minecraft:deepslate_copper_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #505050,
+	// blockIds: [ minecraft:coal_ore, minecraft:deepslate_coal_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #fff52e,
+	// blockIds: [ minecraft:gold_ore, minecraft:deepslate_gold_ore, minecraft:nether_gold_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #2ee0ff,
+	// blockIds: [ minecraft:diamond_ore, minecraft:deepslate_diamond_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #2eff35,
+	// blockIds: [ minecraft:emerald_ore, minecraft:deepslate_emerald_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #312eff,
+	// blockIds: [ minecraft:lapis_ore, minecraft:deepslate_lapis_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #ff2e2e,
+	// blockIds: [ minecraft:redstone_ore, minecraft:deepslate_redstone_ore,  ],
+	// }, BlockEntry {
+	// highlightColor: #ffffff,
+	// blockIds: [ minecraft:nether_quartz_ore,  ],
+	// },  ]
+	block-highlight-colors: [
+		{
+			highlightColor: "#ffd1bd"
+			blockIds: [
+				minecraft:iron_ore
+				minecraft:deepslate_iron_ore
+				mores:granite_iron_ore
+				mores:andesite_iron_ore
+				mores:diorite_iron_ore
+				mores:tuff_iron_ore
+			]
+		}
+		{
+			highlightColor: "#eb5e34"
+			blockIds: [
+				minecraft:copper_ore
+				minecraft:deepslate_copper_ore
+				mores:granite_copper_ore
+				mores:andesite_copper_ore
+				mores:diorite_copper_ore
+				mores:tuff_copper_ore
+			]
+		}
+		{
+			highlightColor: "#505050"
+			blockIds: [
+				minecraft:coal_ore
+				minecraft:deepslate_coal_ore
+				mores:granite_coal_ore
+				mores:andesite_coal_ore
+				mores:diorite_coal_ore
+				mores:tuff_coal_ore
+			]
+		}
+		{
+			highlightColor: "#fff52e"
+			blockIds: [
+				minecraft:gold_ore
+				minecraft:deepslate_gold_ore
+				minecraft:nether_gold_ore
+				mores:granite_gold_ore
+				mores:andesite_gold_ore
+				mores:diorite_gold_ore
+				mores:tuff_gold_ore
+			]
+		}
+		{
+			highlightColor: "#2ee0ff"
+			blockIds: [
+				minecraft:diamond_ore
+				minecraft:deepslate_diamond_ore
+				mores:granite_diamond_ore
+				mores:andesite_diamond_ore
+				mores:diorite_diamond_ore
+				mores:tuff_diamond_ore
+			]
+		}
+		{
+			highlightColor: "#2eff35"
+			blockIds: [
+				minecraft:emerald_ore
+				minecraft:deepslate_emerald_ore
+				mores:granite_emerald_ore
+				mores:andesite_emerald_ore
+				mores:diorite_emerald_ore
+				mores:tuff_emerald_ore
+			]
+		}
+		{
+			highlightColor: "#312eff"
+			blockIds: [
+				minecraft:lapis_ore
+				minecraft:deepslate_lapis_ore
+				mores:granite_lapis_ore
+				mores:andesite_lapis_ore
+				mores:diorite_lapis_ore
+				mores:tuff_lapis_ore
+				betternether:nether_lapis_ore
+			]
+		}
+		{
+			highlightColor: "#ff2e2e"
+			blockIds: [
+				minecraft:redstone_ore
+				minecraft:deepslate_redstone_ore
+				mores:granite_redstone_ore
+				mores:andesite_redstone_ore
+				mores:diorite_redstone_ore
+				mores:tuff_redstone_ore
+				betternether:nether_redstone_ore
+			]
+		}
+		{
+			highlightColor: "#ffffff"
+			blockIds: [
+				minecraft:nether_quartz_ore
+			]
+		}
+		{
+			highlightColor: "#B6984E"
+			blockIds: [
+				betternether:cincinnasite_ore
+			]
+		}
+		{
+			highlightColor: "#69000F"
+			blockIds: [
+				betternether:nether_ruby_ore
+			]
+		}
+		{
+			highlightColor: "#006B5D"
+			blockIds: [
+				betterend:ender_ore
+			]
+		}
+		{
+			highlightColor: "#F8B009"
+			blockIds: [
+				betterend:amber_ore
+			]
+		}
+		{
+			highlightColor: "#62BCC4"
+			blockIds: [
+				betterend:thallasium_ore
+			]
+		}
+		{
+			highlightColor: "#E9EBED"
+			blockIds: [
+				bewitchment:silver_ore
+				bewitchment:deepslate_silver_ore
+			]
+		}
+		{
+			highlightColor: "#E0E0C4"
+			blockIds: [
+				bewitchment:salt_ore
+				bewitchment:deepslate_salt_ore
+			]
+		}
+	]
+	// default: true
+	block-transitions: true
+}

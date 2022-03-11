@@ -1,0 +1,13 @@
+name = "Extra Origins"
+filename = "extraorigins-1.18-9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3646/247/extraorigins-1.18-9.jar"
+hash-format = "sha1"
+hash = "60d049cccbc3fda726b4b385ea6d7f4ee2e29db7"
+
+[update]
+[update.curseforge]
+file-id = 3646247
+project-id = 398419

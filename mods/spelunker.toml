@@ -1,0 +1,13 @@
+name = "Spelunker"
+filename = "spelunker-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3683/846/spelunker-1.2.0.jar"
+hash-format = "sha1"
+hash = "0d5a9cc2124f0815b18a6b3771226b358b3d6687"
+
+[update]
+[update.curseforge]
+file-id = 3683846
+project-id = 572592
