@@ -2,7 +2,7 @@
 	// Mod enabled or disabled
 	"enabled": true,
 	// Activation key
-	"keybinding": "key.keyboard.f4",
+	"keybinding": "key.keyboard.f8",
 	// Inverts the keybinding activation
 	"invertActivation": false,
 	// Sneak to excavate(can work serverside only)

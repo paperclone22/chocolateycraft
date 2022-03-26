@@ -21,7 +21,7 @@ optionsButton = true
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 128
+			lodChunkRenderDistance = 256
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
@@ -31,7 +31,7 @@ optionsButton = true
 			# HIGH: uses at max 8 columns per position. 
 			#
 			# Lowest Quality: LOW Highest Quality: HIGH
-			verticalQuality = "MEDIUM"
+			verticalQuality = "LOW"
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
@@ -39,7 +39,7 @@ optionsButton = true
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalQuality = "MEDIUM"
+			horizontalQuality = "LOW"
 			# This determines how lod level drop off will be done. 
 			#
 			# SMOOTH_DROPOFF: 
@@ -214,7 +214,7 @@ optionsButton = true
 			#
 			# Disabling rendering will reduce GPU usage 
 			#
-			drawLods = true
+			drawLods = false
 			# Should specialized colors/rendering modes be used? 
 			#
 			# OFF: Fake chunks will be drawn with their normal colors. 
@@ -249,7 +249,7 @@ optionsButton = true
 			# If you don't see any difference when changing these settings, or the world looks corrupted: 
 			# Restart the game to clear the old buffers. 
 			#
-			gpuUploadMethod = "AUTO"
+			gpuUploadMethod = "BUFFER_STORAGE"
 			# How long should a buffer wait per Megabyte of data uploaded?
 			# Helpful resource for frame times: https://fpstoms.com 
 			#
@@ -260,7 +260,7 @@ optionsButton = true
 			# Before changing this config, try changing "GPU Upload methods"
 			#  and determined the best method for your hardware first. 
 			#
-			gpuUploadPerMegabyteInMilliseconds = 0
+			gpuUploadPerMegabyteInMilliseconds = 50
 			# How frequently should vertex buffers (geometry) be rebuilt and sent to the GPU? 
 			# Higher settings may cause stuttering, but will prevent holes in the world 
 			#

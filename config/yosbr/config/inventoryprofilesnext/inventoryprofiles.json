@@ -3,6 +3,28 @@
         "enable_updates_check": false,
         "first_run": false
     },
+    "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "sort_inventory": {
+            "main": {
+                "keys": "S"
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        }
+    },
     "Tweaks": {
         "prevent_close_gui_drop_item": true
     }

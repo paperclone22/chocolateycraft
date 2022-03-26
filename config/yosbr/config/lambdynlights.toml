@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fancy"
+mode = "fastest"
 
 # Light sources settings.
 [light_sources]
@@ -24,131 +24,131 @@ mode = "fancy"
 				area_effect_cloud = true
 				armor_stand = true
 				arrow = true
-				axolotl = true
-				bat = true
-				bee = true
+				axolotl = false
+				bat = false
+				bee = false
 				blaze = true
-				boat = true
-				cat = true
+				boat = false
+				cat = false
 				cave_spider = true
-				chicken = true
-				cod = true
-				cow = true
+				chicken = false
+				cod = false
+				cow = false
 				creeper = true
-				dolphin = true
-				donkey = true
+				dolphin = false
+				donkey = false
 				dragon_fireball = true
-				drowned = true
-				elder_guardian = true
+				drowned = false
+				elder_guardian = false
 				end_crystal = true
 				ender_dragon = true
 				enderman = true
-				endermite = true
+				endermite = false
 				evoker = true
 				evoker_fangs = true
 				experience_orb = true
 				eye_of_ender = true
-				falling_block = true
-				firework_rocket = true
-				fox = true
-				ghast = true
-				giant = true
+				falling_block = false
+				firework_rocket = false
+				fox = false
+				ghast = false
+				giant = false
 				glow_squid = true
-				goat = true
-				guardian = true
-				hoglin = true
-				horse = true
-				husk = true
-				illusioner = true
-				iron_golem = true
+				goat = false
+				guardian = false
+				hoglin = false
+				horse = false
+				husk = false
+				illusioner = false
+				iron_golem = false
 				item = true
-				item_frame = true
+				item_frame = false
 				fireball = true
-				leash_knot = true
+				leash_knot = false
 				lightning_bolt = true
-				llama = true
-				llama_spit = true
+				llama = false
+				llama_spit = false
 				magma_cube = true
 				marker = true
-				minecart = true
-				chest_minecart = true
-				command_block_minecart = true
+				minecart = false
+				chest_minecart = false
+				command_block_minecart = false
 				furnace_minecart = true
-				hopper_minecart = true
-				spawner_minecart = true
-				tnt_minecart = true
-				mule = true
-				mooshroom = true
-				ocelot = true
-				painting = true
-				panda = true
-				parrot = true
-				phantom = true
-				pig = true
-				piglin = true
-				piglin_brute = true
-				pillager = true
-				polar_bear = true
+				hopper_minecart = false
+				spawner_minecart = false
+				tnt_minecart = false
+				mule = false
+				mooshroom = false
+				ocelot = false
+				painting = false
+				panda = false
+				parrot = false
+				phantom = false
+				pig = false
+				piglin = false
+				piglin_brute = false
+				pillager = false
+				polar_bear = false
 				tnt = true
-				pufferfish = true
-				rabbit = true
-				ravager = true
-				salmon = true
-				sheep = true
-				shulker = true
+				pufferfish = false
+				rabbit = false
+				ravager = false
+				salmon = false
+				sheep = false
+				shulker = false
 				shulker_bullet = true
-				silverfish = true
-				skeleton = true
-				skeleton_horse = true
-				slime = true
+				silverfish = false
+				skeleton = false
+				skeleton_horse = false
+				slime = false
 				small_fireball = true
-				snow_golem = true
-				snowball = true
-				spectral_arrow = true
-				spider = true
-				squid = true
-				stray = true
-				strider = true
-				egg = true
-				ender_pearl = true
+				snow_golem = false
+				snowball = false
+				spectral_arrow = false
+				spider = false
+				squid = false
+				stray = false
+				strider = false
+				egg = false
+				ender_pearl = false
 				experience_bottle = true
 				potion = true
-				trident = true
-				trader_llama = true
-				tropical_fish = true
-				turtle = true
+				trident = false
+				trader_llama = false
+				tropical_fish = false
+				turtle = false
 				vex = true
-				villager = true
-				vindicator = true
-				wandering_trader = true
-				witch = true
+				villager = false
+				vindicator = false
+				wandering_trader = false
+				witch = false
 				wither = true
-				wither_skeleton = true
+				wither_skeleton = false
 				wither_skull = true
-				wolf = true
-				zoglin = true
-				zombie = true
-				zombie_horse = true
-				zombie_villager = true
-				zombified_piglin = true
+				wolf = false
+				zoglin = false
+				zombie = false
+				zombie_horse = false
+				zombie_villager = false
+				zombified_piglin = false
 				player = true
-				fishing_bobber = true
+				fishing_bobber = false
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
 				hydrogen_jellyfish = true
-				naga = true
-				flying_pig = true
-				jungle_skeleton = true
+				naga = false
+				flying_pig = false
+				jungle_skeleton = false
 				skull = true
-				chair = true
-				naga_projectile = true
+				chair = false
+				naga_projectile = false
 
 			[light_sources.settings.entities.additionaladditions]
 				glow_stick = true
 
 			[light_sources.settings.entities.adorn]
-				seat = true
+				seat = false
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -168,9 +168,9 @@ mode = "fancy"
 				dragons_blood_broom = true
 				silver_arrow = true
 				horned_spear = true
-				owl = true
-				raven = true
-				snake = true
+				owl = false
+				raven = false
+				snake = false
 				toad = true
 				ghost = true
 				vampire = true
@@ -204,7 +204,7 @@ mode = "fancy"
 				ender_air = true
 
 			[light_sources.settings.entities.computercraft]
-				turtle_player = true
+				turtle_player = false
 
 			[light_sources.settings.entities.drg_flares]
 				drg_flare = true
@@ -231,7 +231,7 @@ mode = "fancy"
 				snail = true
 
 			[light_sources.settings.entities.origins]
-				enderian_pearl = true
+				enderian_pearl = false
 
 			[light_sources.settings.entities.oxidized]
 				copper_golem = true
@@ -243,58 +243,68 @@ mode = "fancy"
 				emitter_minecart = true
 
 			[light_sources.settings.entities.terraform]
-				boat = true
+				boat = false
+
+			[light_sources.settings.entities.conjuring]
+				soul_projectile = true
+				soul_feller = true
+				soul_digger = true
+				soul_magnet = true
+				soul_harvester = true
+
+			[light_sources.settings.entities.moborigins]
+				origin_slime = false
 
 		[light_sources.settings.block_entities]
 
 			[light_sources.settings.block_entities.minecraft]
 				furnace = true
-				chest = true
+				chest = false
 				trapped_chest = true
 				ender_chest = true
 				jukebox = true
-				dispenser = true
-				dropper = true
+				dispenser = false
+				dropper = false
 				sign = true
 				mob_spawner = true
-				piston = true
+				piston = false
 				brewing_stand = true
 				enchanting_table = true
 				end_portal = true
 				beacon = true
-				skull = true
+				skull = false
 				daylight_detector = true
-				hopper = true
+				hopper = false
 				comparator = true
 				banner = true
-				structure_block = true
+				structure_block = false
 				end_gateway = true
-				command_block = true
-				shulker_box = true
-				bed = true
+				command_block = false
+				shulker_box = false
+				bed = false
 				conduit = true
-				barrel = true
+				barrel = false
 				smoker = true
 				blast_furnace = true
-				lectern = true
-				bell = true
-				jigsaw = true
+				lectern = false
+				bell = false
+				jigsaw = false
 				campfire = true
 				beehive = true
 				sculk_sensor = true
 
 			[light_sources.settings.block_entities.adorn]
-				shelf = true
-				drawer = true
-				kitchen_cupboard = true
-				trading_station = true
+				shelf = false
+				drawer = false
+				kitchen_cupboard = false
+				trading_station = false
 				brewer = true
 
 			[light_sources.settings.block_entities.animal_feeding_trough]
-				feeding_trough = true
+				feeding_trough = false
 
 			[light_sources.settings.block_entities.automated_crafting]
-				auto_crafter_entity = true
+				auto_crafter_entity = false
 
 			[light_sources.settings.block_entities.bclib]
 				chest = true
@@ -406,4 +416,148 @@ mode = "fancy"
 				heisei_dream = true
 				tigerseye = true
 				jaded_amaranthus = true
+				orechid = true
+				fallen_kanade = true
+				exoflame = true
+				agricarnation = true
+				agricarnation_chibi = true
+				hopperhock = true
+				hopperhock_chibi = true
+				tangleberrie = true
+				tangleberrie_chibi = true
+				jiyuulia = true
+				jiyuulia_chibi = true
+				rannuncarpus = true
+				rannuncarpus_chibi = true
+				hyacidus = true
+				pollidisiac = true
+				clayconia = true
+				clayconia_chibi = true
+				loonium = true
+				daffomill = true
+				vinculotus = true
+				spectranthemum = true
+				medumone = true
+				marimorphosis = true
+				marimorphosis_chibi = true
+				bubbell = true
+				bubbell_chibi = true
+				solegnolia = true
+				solegnolia_chibi = true
+				orechid_ignem = true
+				labellia = true
+
+			[light_sources.settings.block_entities.comforts]
+				sleeping_bag = true
+				hammock = true
+
+			[light_sources.settings.block_entities.computercraft]
+				monitor_normal = true
+				monitor_advanced = true
+				computer_normal = true
+				computer_advanced = true
+				computer_command = true
+				turtle_normal = true
+				turtle_advanced = true
+				speaker = true
+				disk_drive = true
+				printer = true
+				wired_modem_full = true
+				cable = true
+				wireless_modem_normal = true
+				wireless_modem_advanced = true
+
+			[light_sources.settings.block_entities.conjuring]
+				conjurer = true
+				soulfire_forge = true
+				blackstone_pedestal = true
+				soul_funnel = true
+				soul_weaver = true
+				gem_tinkerer = true
+
+			[light_sources.settings.block_entities.drg_flares]
+				flare_light_block_entity = true
+
+			[light_sources.settings.block_entities.edenring]
+				eden_portal = true
+
+			[light_sources.settings.block_entities.gofish]
+				astral_crate = true
+
+			[light_sources.settings.block_entities.graveyard]
+				gravestone_block_entity = true
+				urn_block_entity = true
+				sarcophagus_block_entity = true
+				brazier_block_entity = true
+
+			[light_sources.settings.block_entities.ironchests]
+				copper_chest = true
+				iron_chest = true
+				gold_chest = true
+				diamond_chest = true
+				emerald_chest = true
+				crystal_chest = true
+				obsidian_chest = true
+				christmas_chest = true
+
+			[light_sources.settings.block_entities.netherchest]
+				nether_chest = true
+
+			[light_sources.settings.block_entities.oxidized]
+				copper_kiln_block_entity = true
+
+			[light_sources.settings.block_entities.pipe]
+				item_pipe = true
+
+			[light_sources.settings.block_entities.redstonebits]
+				placer = true
+				breaker = true
+				checker = true
+				redstone_gate = true
+
+			[light_sources.settings.block_entities.small_artifacts]
+				copper_altar_entity = true
+
+			[light_sources.settings.block_entities.the_extractinator]
+				extractinator_entity = true
+
+			[light_sources.settings.block_entities.toms_storage]
+
+				[light_sources.settings.block_entities.toms_storage.ts]
+
+					[light_sources.settings.block_entities.toms_storage.ts.inventory_connector]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.storage_terminal]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.open_crate]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.painted]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.inventory_cable_connector]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.inventory_cable_connector_filtered]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.inventory_proxy]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.crafting_terminal]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.inventoty_hopper_basic]
+						tile = true
+
+					[light_sources.settings.block_entities.toms_storage.ts.level_emitter]
+						tile = true
+
+			[light_sources.settings.block_entities.waystones]
+				waystone = true
+				sharestone = true
+				warp_plate = true
+				portstone = true
 

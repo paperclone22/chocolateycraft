@@ -1,0 +1,120 @@
+
+# Origins
+
+## good combos / builds
+
+- **Mining Overworld and Water-favorable** ⭐
+  - A - Hydro
+  - T - Imber
+  - R - Kobold
+  - C - Miner
+  - P - Stubborn
+- **Nether**
+  - A - Pyro
+  - T - Magmus *OR* Navitas
+  - R - Enderian *OR* [following-start-in-nether] Blazeborn+ *OR* Piglin *OR* Shroomling *OR* Strider
+  - C - Explorer
+  - P - Stubborn
+- **End**
+  - A - Perditio
+  - T - Luna
+  - R - Elytrian *OR* Enderian *OR* Enderthal *OR* [start-in-end]End Stone Golem
+  - C - Explorer
+  - P - Stubborn
+- **Combat General**
+- **Combat Melee**
+- **Combat Ranged**
+- **Adventure**
+- **Passive**
+- **Mining Water-Averse**
+- **Water Only**
+
+### Template
+
+- 0
+  - A - aspect
+  - T - type
+  - R - race
+  - C - class
+  - P - personality
+
+## Origin Pool
+
+- **aspect - type**
+  - Anemo [air] ⭐
+    - Tempus [storm]
+    - Avis [avian] - NOP
+    - Imp
+  - Hydro [water]
+    - Cryo [ice]
+    - Altum [deep water] - powerless
+    - Imber [rain] ⭐
+    - Imp
+  - Geo [earth]
+    - Dendro [flora?]
+    - Imp
+  - Pyro [fire]
+    - Magmus [magma]
+    - Ignis [flame]
+    - Navitas [spark]
+    - Imp
+  - Ordo [light]
+    - Solus [sun]
+    - Imp
+  - Perditio [dark]
+    - Luna [moon]
+    - Imp
+  - Vacuos
+- **Race**
+  - Arachnid [stock]
+  - Avian [stock]
+  - Blazeborn [stock]
+  - Feline [stock]
+  - Elytrian [stock]
+  - Human [stock]
+  - Merling [stock]
+  - Shulk [stock]
+  - Avian-plus
+  - Blazeborn-plus
+  - Feline-plus
+  - Enderian [edit]
+  - Phantom [edit]
+  - Floran
+  - Truffle
+  - Inchling
+  - Piglin
+  - Mushling
+  - Shroomling
+  - Snail
+  - Enderthal
+  - Boarling
+  - Lepus
+  - Birb
+  - Giant
+  - Kobold ⭐
+- **class**
+  - Blacksmith
+  - Cleric
+  - Cook
+  - Farmer
+  - Merchant
+  - Rancher
+  - Miner ⭐
+  - Rogue
+  - Warrior
+  - Archer
+  - Beastmaster
+  - Lumberjack
+  - Explorer ⭐
+  - Nitwit
+- **personality**
+  - Cautious - nearby entities glow - exhausts slower - explode on death
+  - Cool - unable to break stone unless strengh (like feline) - hero of the village - weakness to nearby entities
+  - Couragous - extra dmg in light x >= 9 - always glowing effect
+  - Excitable - no sleep when food over 6 - faster sprint (imo too fast) - visually shakes - extra dmg when sprinting
+  - Helpful - pick up entities - my punches heal - hurt gives slowness
+  - Kind - team with pillagers & hero of the village - do less dmg
+  - Laidback - slows enemies & gives resistance 10s - sprinting exhausts food quickly
+  - Pesimistic - keep some inv - less health
+  - Stubborn - take less dmg - prevent death ⭐
+  - Boring

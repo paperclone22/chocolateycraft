@@ -5,13 +5,13 @@
   "tasks": {
     "minecraft:overworld": {
       "cancelled": true,
-      "radius": 1500.0,
+      "radius": 1100.0,
       "centerX": 0.0,
       "centerZ": 0.0,
       "iterator": "concentric",
       "shape": "square",
-      "count": 35672,
-      "time": 1098171
+      "count": 19271,
+      "time": 55831
     }
   }
 }

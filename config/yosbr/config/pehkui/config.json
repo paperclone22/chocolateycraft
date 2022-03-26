@@ -6,7 +6,7 @@
 	"enableCommands": true,
 	"enableDebugCommands": false,
 	"scaledFallDamage": false,
-	"scaledMotion": true,
+	"scaledMotion": false,
 	"scaledReach": true,
 	"scaledAttack": true,
 	"scaledDefense": true,

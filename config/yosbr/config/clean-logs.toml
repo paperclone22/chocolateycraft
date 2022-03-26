@@ -1,0 +1,15 @@
+[clean-logs]
+# Print out all phrases and regex to be filtered out on startup
+printOnStart = true
+
+# Print a single line on start saying that Clean Logs will filter from this point forward
+printInitLineOnStart = true
+
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+  "Ignoring unknown attribute 'forge:swim_speed'",
+  "Ignoring unknown attribute 'forge:entity_gravity'"
+]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging
+regex = []

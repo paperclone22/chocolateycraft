@@ -1,6 +1,6 @@
 {
   "animation_settings": {
-    "animation": true,
+    "animation": false,
     "water": true,
     "lava": true,
     "fire": true,
@@ -8,13 +8,13 @@
     "block_animations": true
   },
   "particle_settings": {
-    "particles": true,
+    "particles": false,
     "rain_splash": true,
     "explosion": true,
     "water": true,
     "smoke": true,
     "potion": true,
-    "portal": true,
+    "portal": false,
     "redstone": true,
     "drip": true,
     "firework": true,
@@ -34,7 +34,7 @@
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 33,
+    "fog_distance": 0,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -43,7 +43,7 @@
   },
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
-    "show_fps": true,
+    "show_fps": false,
     "show_f_p_s_extended": true,
     "show_coords": false,
     "reduce_resolution_on_mac": true,

@@ -2,7 +2,7 @@
   "beenfo.config.popupypercent": {
     "key": "Popup position top to down",
     "toolTip": "beenfo.config.tt.popupypercent",
-    "value": 50,
+    "value": 90,
     "defaultValue": 50,
     "minValue": 0,
     "maxValue": 100
@@ -10,7 +10,7 @@
   "beenfo.config.popupxpercent": {
     "key": "Popup position left to right",
     "toolTip": "beenfo.config.tt.popupxpercent",
-    "value": 50,
+    "value": 4,
     "defaultValue": 50,
     "minValue": 0,
     "maxValue": 100
